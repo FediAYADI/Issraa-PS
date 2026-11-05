@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="icon" href="C:\Users\MSI-ALFRED\Desktop\IPS\icon.png" type="image/png">
+    <title>IPS - Société Issraa des produits spéciaux - Catalogue</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&family=Rubik:wght@500;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <style>
+        /* Catalogue Grid Styles */
+        .catalogue-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 30px;
+            padding: 20px 0;
+        }
+
+        .product-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.08);
+            transition: all 0.3s ease;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .product-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 0 30px rgba(0, 0, 0, 0.15);
+        }
+
+        .product-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            background-color: #f5f5f5;
+        }
+
+        .product-info {
+            padding: 20px;
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .product-name {
+            font-size: 16px;
+            font-weight: 600;
+            color: #000000;
+            text-align: center;
+            margin: 0;
+            line-height: 1.4;
+        }
+
+        .category-header {
+            background-color: #000000;
+            padding: 60px 0;
+            margin-bottom: 40px;
+        }
+
+        .category-title {
+            color: #dfb00b;
+            font-size: 3rem;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        .category-subtitle {
+            color: #ffffff;
+            font-size: 1.2rem;
+            margin-top: 10px;
+        }
+
+        .breadcrumb-section {
+            background: linear-gradient(to right, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.5) 100%);
+            padding: 20px 0;
+        }
+
+        .breadcrumb-item a {
+            color: #dfb00b;
+            text-decoration: none;
+        }
+
+        .breadcrumb-item.active {
+            color: #ffffff;
+        }
+
+        @media (max-width: 768px) {
+            .catalogue-grid {
+                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+                gap: 20px;
+            }
+
+            .category-title {
+                font-size: 2rem;
+            }
+
+            .product-image {
+                height: 180px;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .catalogue-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Spinner Start -->
+    <div id="spinner"
+        class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
+    </div>
+    <!-- Spinner End -->
+
+    <!-- Topbar Start -->
+    <div style="background-color: #000000;" class="container-fluid bg- px-0">
+        <div class="row g-0 d-none d-lg-flex">
+            <div class="col-lg-6 ps-5 text-start">
+                <div style="background-color: #000000; color: #dfb00b;" class="h-100 d-inline-flex align-items-center ">
+                    <span>Suivez-nous:</span>
+                    <a style="background-color: #000000; color: #dfb00b;" class="btn btn-link " href="https://www.facebook.com/ste.issraa/"><i class="fab fa-facebook-f"></i></a>
+                    <a style="background-color: #000000; color: #dfb00b;" class="btn btn-link " href="https://www.instagram.com/ste.issraa.produits.speciaux/"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+            <div class="col-lg-6 text-end">
+                <div class="h-100 topbar-right d-inline-flex align-items-center text- py-2 px-5">
+                    <span class="fs-5 fw-bold me-2"><i class="fa fa-phone-alt me-2"></i>Appelez-nous:</span>
+                    <span class="fs-5 fw-bold">+216 58 536 770</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Topbar End -->
+
+    <!-- Navbar Start -->
+    <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-0 pe-5">
+        <a href="index.html" class="navbar-brand ps-5 me-0">
+            <h1 style="color: #000000;" class="text-white m-0">ISSRAA P.S</h1>
+        </a>
+        <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto p-4 p-lg-0">
+                <a href="index.html" class="nav-item nav-link">Accueil</a>
+                <a href="about.html" class="nav-item nav-link">À propos</a>
+                <a href="service.html" class="nav-item nav-link">Prestations de service</a>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Nos Articles</a>
+                    <div class="dropdown-menu bg-light m-0" id="catalogueDropdown">
+                        <!-- Categories will be populated by JavaScript -->
+                    </div>
+                </div>
+                <a href="contact.html" class="nav-item nav-link">Contact</a>
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+    <!-- Category Header -->
+    <div class="category-header">
+        <div class="container text-center">
+            <h1 class="category-title" id="categoryTitle">Chargement...</h1>
+            <p class="category-subtitle" id="categorySubtitle">Nos produits de qualité</p>
+        </div>
+    </div>
+
+    <!-- Breadcrumb -->
+    <div class="breadcrumb-section">
+        <div class="container">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.html">Accueil</a></li>
+                    <li class="breadcrumb-item"><a href="index.html">Nos Articles</a></li>
+                    <li class="breadcrumb-item active" id="breadcrumbCategory">Catégorie</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+    <!-- Catalogue Grid -->
+    <div class="container py-5">
+        <div class="catalogue-grid" id="catalogueGrid">
+            <!-- Products will be populated by JavaScript -->
+        </div>
+    </div>
+
+    <!-- Footer Start -->
+    <div style="background-color: #dfb00b;" class="container-fluid bg- footer mt-5 py-5 wow fadeIn" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="row g-5">
+                <div class="col-lg-3 col-md-6">
+                    <h5 style="color: #FFFFFF;" class="text- mb-4">Nos magasins</h5>
+                    <p class="footer-text mb-2"><i class="fa fa-map-marker-alt me-3"></i>Jaafer 2, Raoued</p>
+                    <p class="footer-text mb-2"><i class="fa fa-phone-alt me-3"></i>+216 58 536 771</p>
+                    <p class="footer-text mb-2"><i class="fa fa-map-marker-alt me-3"></i>Sidi Salah, Chotrana 1</p>
+                    <p class="footer-text mb-2"><i class="fa fa-phone-alt me-3"></i>+216 58 636 777</p>
+                    <p class="footer-text mb-2"><i class="fa fa-envelope me-3"></i>issraa.ps@gmail.com</p>
+                    <div class="d-flex pt-3">
+                        <a style="background-color: #000000; color: #dfb00b;" class=" btn btn-square btn- rounded-circle me-2" href="https://www.facebook.com/ste.issraa/"><i
+                                class="fab fa-facebook-f"></i></a>
+                        <a style="background-color: #000000; color: #dfb00b;" class="btn btn-square btn- rounded-circle me-2" href="https://www.instagram.com/ste.issraa.produits.speciaux/"><i
+                                class="fab fa-instagram"></i></a>
+                        <a style="background-color: #000000; color: #dfb00b; " class="btn btn-square btn- rounded-circle me-2" href="https://www.linkedin.com/in/sofien-ayadi-778b02146/"><i
+                                class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h5 style="color: #FFFFFF;" class="text- mb-4">Liens rapides</h5>
+                    <a class="footer-text btn btn-link" href="service.html">Nos Services</a>
+                </div>
+                <div class=" footer-text col-lg-3 col-md-6">
+                    <h5 style="color: #FFFFFF;" class="text- mb-4">Horaire de travail</h5>
+                    <p class="mb-1">Lundi - Vendredi</p>
+                    <h6 class="footer-text text-">07:30 - 17:30</h6>
+                    <p class="mb-1">Samedi</p>
+                    <h6 class="footer-text text-">07:30 - 15:30</h6>
+                    <p class="mb-1">Dimanche</p>
+                    <h6 class="footer-text text-">Fermé</h6>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h5 style="color: #FFFFFF;" class="text- mb-4">Rester à jour</h5>
+                    <div class="position-relative w-100">
+                        <input  class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text"
+                            placeholder="Votre e-mail">
+                        <button type="button"
+                         style="background-color: #000000; color: #dfb00b; " class="btn btn- py-2 position-absolute top-0 end-0 mt-2 me-2">S'inscrire</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+    <!-- Copyright Start -->
+    <div style="background-color: #000000;" class="container-fluid copyright bg- py-4">
+        <div class="container text-center">
+            <p style="color: #FFFFFF; " class="mb-2">Copyright &copy; <a style="color: #dfb00b;" class="fw-semi-bold" href="index.html">Issraa.P.S</a>, All Right Reserved.
+            </p>
+            <p style="color: #FFFFFF;" class="mb-0">Designed By <a style="color: #dfb00b;" href="">AlfredProduction</a> </p>
+        </div>
+    </div>
+    <!-- Copyright End -->
+
+    <!-- Back to Top -->
+    <a style="background-color: #dfb00b; color: #000000;"  href="#" class="btn btn-lg btn- btn-lg-square rounded-circle back-to-top"><i
+            class="bi bi-arrow-up"></i></a>
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
+
+    <!-- Catalogue Data -->
+    <script src="js/product-catalogue.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+
+    <!-- Catalogue Page Script -->
+    <script>
+        // Get category from URL parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const category = urlParams.get('category');
+
+        // Category display names mapping
+        const categoryDisplayNames = {
+            'afrochim': 'AFROCHIM',
+            'appareillage': 'Appareillage',
+            'cbk': 'CBK',
+            'derbigum': 'DERBIGUM',
+            'divers': 'Divers',
+            'geko': 'GEKO',
+            'golden-chimijoint': 'Golden Chimijoint',
+            'isolation thermique': 'Isolation Thermique',
+            'mat.construction': 'Matériaux de Construction',
+            'outillage': 'Outillage',
+            'peinture': 'Peinture',
+            'piscine': 'Piscine',
+            'plomberie': 'Plomberie',
+            'polyestere': 'Polyestère',
+            'pvc': 'PVC',
+            'rideau store': 'Rideau & Store',
+            'sika-isomat': 'SIKA-ISOMAT',
+            'smart-t.membrane': 'Smart-T Membrane',
+            'électricité': 'Électricité'
+        };
+
+        // Initialize the page
+        document.addEventListener('DOMContentLoaded', function() {
+            // Populate dropdown
+            populateDropdown();
+
+            // Load category
+            if (category && productCatalogue[category]) {
+                loadCategory(category);
+            } else {
+                // If no category specified, load first category
+                const firstCategory = Object.keys(productCatalogue)[0];
+                loadCategory(firstCategory);
+            }
+        });
+
+        function populateDropdown() {
+            const dropdown = document.getElementById('catalogueDropdown');
+            dropdown.innerHTML = '';
+
+            Object.keys(productCatalogue).forEach(cat => {
+                const link = document.createElement('a');
+                link.className = 'dropdown-item';
+                link.href = `catalogue.html?category=${encodeURIComponent(cat)}`;
+                link.textContent = categoryDisplayNames[cat] || cat.toUpperCase();
+                dropdown.appendChild(link);
+            });
+        }
+
+        function loadCategory(categoryKey) {
+            const products = productCatalogue[categoryKey];
+            const displayName = categoryDisplayNames[categoryKey] || categoryKey.toUpperCase();
+
+            // Update page title
+            document.getElementById('categoryTitle').textContent = displayName;
+            document.getElementById('breadcrumbCategory').textContent = displayName;
+            document.title = `IPS - ${displayName} - Catalogue`;
+
+            // Update active state in dropdown
+            const dropdownItems = document.querySelectorAll('#catalogueDropdown .dropdown-item');
+            dropdownItems.forEach(item => {
+                if (item.textContent === displayName) {
+                    item.classList.add('active');
+                } else {
+                    item.classList.remove('active');
+                }
+            });
+
+            // Populate product grid
+            const grid = document.getElementById('catalogueGrid');
+            grid.innerHTML = '';
+
+            products.forEach((product, index) => {
+                const card = createProductCard(product, categoryKey, index);
+                grid.appendChild(card);
+            });
+        }
+
+        function createProductCard(product, category, index) {
+            const card = document.createElement('div');
+            card.className = 'product-card';
+
+            // Use image from catalogue data if available, otherwise fallback
+            const imageSrc = product.image || getCategoryImage(category, index);
+
+            card.innerHTML = `
+                <img src="${imageSrc}" alt="${product.name}" class="product-image" onerror="this.src='img/placeholder.jpg'">
+                <div class="product-info">
+                    <h5 class="product-name">${product.name}</h5>
+                </div>
+            `;
+
+            return card;
+        }
+
+        function getCategoryImage(category, index) {
+            // Use existing images where available, otherwise use category-specific placeholders
+            const categoryImages = {
+                'afrochim': 'img/afro1.jpg',
+                'geko': 'img/geko1.jpg',
+                'derbigum': 'img/derbi1.jpg',
+                'sika-isomat': 'img/sika1.jpg'
+            };
+
+            // If category has specific images, cycle through them
+            if (categoryImages[category]) {
+                const baseImage = categoryImages[category];
+                const imageNum = (index % 6) + 1;
+                if (baseImage.includes('.jpg')) {
+                    return baseImage.replace(/\d+\.jpg/, `${imageNum}.jpg`);
+                } else if (baseImage.includes('.png')) {
+                    return baseImage.replace(/\d+\.png/, `${imageNum}.png`);
+                }
+            }
+
+            // For other categories, use a generic construction materials image
+            const genericImages = [
+                'img/random1.jpg',
+                'img/random2.jpg',
+                'img/random3.jpg',
+                'img/random4.jpg',
+                'img/random5.jpg',
+                'img/random6.jpg'
+            ];
+            return genericImages[index % genericImages.length];
+        }
+    </script>
+</body>
+
+</html>

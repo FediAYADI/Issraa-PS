@@ -1,0 +1,407 @@
+[
+  {
+    "category": "geko",
+    "product_name": "GEKO ANCHOR PRO - 300ML",
+    "code": "06ANC300",
+    "image_path": "img/products/geko/GEKO_ANCHOR PRO_300ML.jpegg",
+    "image_source": "https://www.facebook.com/geko.tn/videos/-une-nouvelle-r%C3%A9f%C3%A9rence-arrive-chez-geko-toujours-%C3%A0-la-pointe-de-la-technologie-/1875210093438924/",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "BATONNET HOT MELT TRANSLUCIDE 1505 - GEKO",
+    "code": "06BAT001",
+    "image_path": "img/products/geko/BATONNET_HOT_MELT_TRANSLUCIDE_1505_-_GEKO.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Colle-baton-a-chaud-translucide-1500.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "BATONNET HOT MELT TRANSPARENT 1500 - GEKO",
+    "code": "06BAT002",
+    "image_path": "img/products/geko/BATONNET_HOT_MELT_TRANSPARENT_1500_-_GEKO_SAC_1KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Colle-baton-a-chaud-translucide-1500.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "BATONNET HOT MELT TRANSLUCIDE 1505 - GEKO SAC 1KG",
+    "code": "06BAT100",
+    "image_path": "img/products/geko/BATONNET_HOT_MELT_TRANSLUCIDE_1505_-_GEKO_SAC_1KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Colle-baton-a-chaud-translucide-1500.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "BATONNET HOT MELT TRANSPARENT 1500 - GEKO SAC 1KG",
+    "code": "06BAT200",
+    "image_path": "img/products/geko/BATONNET_HOT_MELT_TRANSPARENT_1500_-_GEKO_SAC_1KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Colle-baton-a-chaud-translucide-1500.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 BLANC - S.3KG",
+    "code": "06CJB03",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_BLANC_-_S.3KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 BLANC - S.6KG",
+    "code": "06CJB06",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_BLANC_-_S.6KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 BEIGE CLAIR - S.3KG",
+    "code": "06CJBC03",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_BEIGE_CLAIR_-_S.3KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 BEIGE CLAIR - S.6KG",
+    "code": "06CJBC06",
+    "image_path": "",
+    "image_source": "",
+    "manufacturer": "GEKO (pending verification)",
+    "verification_status": "uncertain"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 BEIGE FONCE - S.3KG",
+    "code": "06CJBF03",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_BEIGE_FONCE_-_S.3KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 BEIGE FONCE - S.6KG",
+    "code": "06CJBF06",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_BEIGE_FONCE_-_S.6KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 GRIS  - S.3KG",
+    "code": "06CJG003",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_GRIS__-_S.3KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 GRIS CLAIR - S.3KG",
+    "code": "06CJGC03",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_GRIS_CLAIR_-_S.3KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 GRIS CLAIR - S.6KG",
+    "code": "06CJGC06",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_GRIS_CLAIR_-_S.6KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 GRIS FONCE - S.3KG",
+    "code": "06CJGF03",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_GRIS_FONCE_-_S.3KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 GRIS FONCE - S.6KG",
+    "code": "06CJGF06",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_GRIS_FONCE_-_S.6KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 MARRON - S.3KG",
+    "code": "06CJM03",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_MARRON_-_S.3KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 MARRON - S.6KG",
+    "code": "06CJM06",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_MARRON_-_S.6KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 MARRON CLAIR  - S.3KG",
+    "code": "06CJMC03",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_MARRON_CLAIR__-_S.3KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CARRO-JOINT GEKO CE50 NOIR - S.3KG",
+    "code": "06CJN003",
+    "image_path": "img/products/geko/CARRO-JOINT_GEKO_CE50_NOIR_-_S.3KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Carreaux-Joint-CE-50-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "FM 2000 WHITE DEUTSCHCOLOR",
+    "code": "06CLE005",
+    "image_path": "",
+    "image_source": "",
+    "manufacturer": "GEKO (pending verification)",
+    "verification_status": "uncertain"
+  },
+  {
+    "category": "geko",
+    "product_name": "CIMENT COLLE GEKO CM10 GRIS - SAC 25KG",
+    "code": "06CM10025",
+    "image_path": "img/products/geko/CIMENT_COLLE_GEKO_CM10_GRIS_-_SAC_25KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/cm10-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CIMENT COLLE GEKO CM10 BLANC - SAC 25KG",
+    "code": "06CM10025B",
+    "image_path": "img/products/geko/CIMENT_COLLE_GEKO_CM10_BLANC_-_SAC_25KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/cm10-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CIMENT COLLE GEKO CM20 BLANC - SAC 25KG",
+    "code": "06CM20025B",
+    "image_path": "img/products/geko/CIMENT_COLLE_GEKO_CM20_BLANC_-_SAC_25KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/cm20-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CIMENT COLLE GEKO CM30 BL/PISCINE - SAC 25KG",
+    "code": "06CM30025B",
+    "image_path": "img/products/geko/CIMENT_COLLE_GEKO_CM30_BL-PISCINE_-_SAC_25KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/CM30-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CIMENT COLLE GEKO CM5 GRIS - SAC 25KG",
+    "code": "06CM5025",
+    "image_path": "img/products/geko/CIMENT_COLLE_GEKO_CM5_GRIS_-_SAC_25KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/cm5-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CIMENT COLLE GEKO CM5 BLANC - SAC 25KG",
+    "code": "06CM5025B",
+    "image_path": "img/products/geko/CIMENT_COLLE_GEKO_CM5_BLANC_-_SAC_25KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/cm5-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CRACK SEAU 06KG - GEKO",
+    "code": "06CRA06",
+    "image_path": "img/products/geko/CRACK_SEAU_06KG_-_GEKO.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/12/GEKO-CRACK-NV-AL-1.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "GEKODUR 3/1  COLLE - KIT 1.2KG",
+    "code": "06DUR012",
+    "image_path": "img/products/geko/GEKODUR_3-1__COLLE_-_KIT_1.2KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/gekdour-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "GEKO3/1DUR 30 COLLE - KIT 1.2KG",
+    "code": "06DUR12",
+    "image_path": "img/products/geko/GEKO3-1DUR_30_COLLE_-_KIT_1.2KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/gekdour-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "GEKODUR 3/1  COLLE - KIT 400GR",
+    "code": "06DUR400",
+    "image_path": "img/products/geko/GEKODUR_3-1__COLLE_-_KIT_400GR.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/gekdour-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "CIMENT COLLE GEKO ECOSTAR BLANC - SAC 25KG",
+    "code": "06ECO025B",
+    "image_path": "",
+    "image_source": "",
+    "manufacturer": "GEKO (pending verification)",
+    "verification_status": "uncertain"
+  },
+  {
+    "category": "geko",
+    "product_name": "GEOTEX GT60 - LE ML",
+    "code": "06GEOT01",
+    "image_path": "",
+    "image_source": "",
+    "manufacturer": "GEKO (pending verification)",
+    "verification_status": "uncertain"
+  },
+  {
+    "category": "geko",
+    "product_name": "XXXXXXXXXXXX",
+    "code": "06GPR006",
+    "image_path": "",
+    "image_source": "",
+    "manufacturer": "GEKO (pending verification)",
+    "verification_status": "uncertain"
+  },
+  {
+    "category": "geko",
+    "product_name": "GEKOLATEX - 1L",
+    "code": "06LAT001",
+    "image_path": "img/products/geko/GEKOLATEX_-_1L.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Gekolatex-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "GEKOLATEX - 5L",
+    "code": "06LAT005",
+    "image_path": "img/products/geko/GEKOLATEX_-_5L.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Gekolatex-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "GEKOLITE - 1KG",
+    "code": "06LIT001",
+    "image_path": "img/products/geko/GEKOLITE_-_1KG.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Gekolite-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "PISTOLET SILICONE DEMI CYLINDRE - GEKO",
+    "code": "06PIS001",
+    "image_path": "",
+    "image_source": "",
+    "manufacturer": "GEKO (pending verification)",
+    "verification_status": "uncertain"
+  },
+  {
+    "category": "geko",
+    "product_name": "PISTOLET DEMI CYLINDRE PRO - GEKO",
+    "code": "06PIS002",
+    "image_path": "img/products/geko/PISTOLET_DEMI_CYLINDRE_PRO_-_GEKO.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Pistolet-Demi-cylindre-Pro.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "PISTOLET SILICONE SQUELETTE - GEKO",
+    "code": "06PIS003",
+    "image_path": "img/products/geko/PISTOLET_SILICONE_SQUELETTE_-_GEKO.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Pistolet-Squelette.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "PISTOLET SILICONE SQUELETTE PRO - GEKO",
+    "code": "06PIS004",
+    "image_path": "img/products/geko/PISTOLET_SILICONE_SQUELETTE_PRO_-_GEKO.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Pistolet-Demi-cylindre.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "PRIMER SEAU 05KG - GEKO",
+    "code": "06PRI05",
+    "image_path": "img/products/geko/PRIMER_SEAU_05KG_-_GEKO.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Geko-primer-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "WATERPROOF LR100 SEAU 20KG GEKO",
+    "code": "06WP100020",
+    "image_path": "img/products/geko/WATERPROOF_LR100_SEAU_20KG_GEKO.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/WaterProof-LR-100-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "WATERPROOF 2K P200 KIT 20KG GEKO",
+    "code": "06WP2002K",
+    "image_path": "img/products/geko/WATERPROOF_2K_P200_KIT_20KG_GEKO.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/Water-Proof-2kp200-bicomposant.jpg",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  },
+  {
+    "category": "geko",
+    "product_name": "WATERPROOF LR100 SEAU 05KG GEKO",
+    "code": "06WPR005",
+    "image_path": "img/products/geko/WATERPROOF_LR100_SEAU_05KG_GEKO.webp",
+    "image_source": "https://geko.tn/wp-content/uploads/2025/11/WaterProof-LR-100-AL.webp",
+    "manufacturer": "GEKO",
+    "verification_status": "verified"
+  }
+]

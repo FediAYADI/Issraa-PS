@@ -4,997 +4,997 @@ const productCatalogue = {
     "afrochim": [
         {
             "name": "SETTING ACCELERATOR - BIDON 2L",
-            "image": ""
+            "image": "img/products/afrochim/HY001_SETTING_ACCELERATOR_1815.webp"
         },
         {
             "name": "AFROPRET CACHET BLEU",
-            "image": ""
+            "image": "img/products/afrochim/HQ003_AFROPRET_CACHET_BLEU_1578.webp"
         },
         {
             "name": "AFROPRET CACHET ROUGE",
-            "image": ""
+            "image": "img/products/afrochim/HQ001_AFROPRET_CACHET_ROUGE_1579.webp"
         },
         {
             "name": "CHAPE ANTI-USURE QUARTZ GRIS CIMENT - C906",
-            "image": ""
+            "image": "img/products/afrochim/CHAPE_ANTI_USURE_QUARTZ_1618.webp"
         },
         {
             "name": "CHAPE ANTI-USURE QUARTZ JAUNE VIF - C211",
-            "image": ""
+            "image": "img/products/afrochim/CHAPE_ANTI_USURE_QUARTZ_1618.webp"
         },
         {
             "name": "CHAPE ANTI-USURE QUARTZ GRIS CLAIR - C201",
-            "image": ""
+            "image": "img/products/afrochim/CHAPE_ANTI_USURE_QUARTZ_1618.webp"
         },
         {
             "name": "CHAPE ANTI-USURE QUARTZ GRIS ANTHRACITE - C203",
-            "image": ""
+            "image": "img/products/afrochim/CHAPE_ANTI_USURE_QUARTZ_1618.webp"
         },
         {
             "name": "CHAPE ANTI-USURE QUARTZ NOIR - C204",
-            "image": ""
+            "image": "img/products/afrochim/CHAPE_ANTI_USURE_QUARTZ_1618.webp"
         },
         {
             "name": "CHAPE ANTI-USURE QUARTZ VERT GAZON - C205",
-            "image": ""
+            "image": "img/products/afrochim/CHAPE_ANTI_USURE_QUARTZ_1618.webp"
         },
         {
             "name": "CHAPE ANTI-USURE QUARTZ ROUGE BRIQUE - C207",
-            "image": ""
+            "image": "img/products/afrochim/CHAPE_ANTI_USURE_QUARTZ_1618.webp"
         },
         {
             "name": "CHAPE ANTI-USURE QUARTZ BEIGE THALA - C209",
-            "image": ""
+            "image": "img/products/afrochim/CHAPE_ANTI_USURE_QUARTZ_1618.webp"
         },
         {
             "name": "CHAPE ANTI-USURE QUARTZ SAUMON - C210",
-            "image": ""
+            "image": "img/products/afrochim/CHAPE_ANTI_USURE_QUARTZ_1618.webp"
         },
         {
             "name": "CHAPE ANTI-USURE QUARTZ JAUNE VIF - C211",
-            "image": ""
+            "image": "img/products/afrochim/CHAPE_ANTI_USURE_QUARTZ_1618.webp"
         },
         {
             "name": "CHAPE ANTI-USURE QUARTZ MARRON - C213",
-            "image": ""
+            "image": "img/products/afrochim/CHAPE_ANTI_USURE_QUARTZ_1618.webp"
         },
         {
             "name": "AQUAETANCHE - SEAU DE 20KG",
-            "image": ""
+            "image": "img/products/afrochim/AQUA_ETANCHE_1581.webp"
         },
         {
             "name": "CIM. COLLE CERAMIX 80W - SAC 25KG",
-            "image": ""
+            "image": "img/products/afrochim/CIM_CIMENT_COLLE_CERAMIX_80W.webp"
         },
         {
             "name": "CIM. COLLE CERAMIX 100 GRIS - SAC 25KG",
-            "image": ""
+            "image": "img/products/afrochim/HO001_CERAMIX_100_1646.webp"
         },
         {
             "name": "CIM. COLLE CERAMIX 100W (BLANC) - SAC 25KG",
-            "image": ""
+            "image": "img/products/afrochim/HO002_CERAMIX_100W_1647.webp"
         },
         {
             "name": "CIM. COLLE CERAMIX 200W / GRES - SAC 25KG",
-            "image": ""
+            "image": "img/products/afrochim/CERAMIX_200W_1648.webp"
         },
         {
             "name": "CIM. COLLE CERAMIX 400W / MARBRE+GRANIT - SAC 25KG",
-            "image": ""
+            "image": "img/products/afrochim/CERAMIX_400W_1651.webp"
         },
         {
             "name": "CIM.COLLE CERAMIX 600W / PISCINE - SAC 25KG",
-            "image": ""
+            "image": "img/products/afrochim/HO005_CERAMIX_600W_1654.webp"
         },
         {
             "name": "CERAMCOLLE - 15KG",
-            "image": ""
+            "image": "img/products/afrochim/CERAMCOLLE _15KG.webp"
         },
         {
             "name": "CHAPE ANTI-USURE DURUBETON MARRON - C413",
-            "image": ""
+            "image": "img/products/afrochim/CHAPE_ANTI_USURE_DURUBETON_1587.webp"
         },
         {
             "name": "CUREDUR P - BIDON DE 04L",
-            "image": ""
+            "image": "img/products/afrochim/HJ005_CUREDUR_P_1656.webp"
         },
         {
             "name": "CUREDUR P - BIDON DE 17L",
-            "image": ""
+            "image": "img/products/afrochim/HJ005_CUREDUR_P_1656.webp"
         },
         {
             "name": "CUVLO ETANCHE PQ - 1KG",
-            "image": ""
+            "image": "img/products/afrochim/HN001_CUVLO_ETANCHE_1658.webp"
         },
         {
             "name": "CUVLO-LATEX - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/CUVLO_LATEX_KIT_1661.webp"
         },
         {
             "name": "CUVLO-LATEX KIT - 25KG",
-            "image": ""
+            "image": "img/products/afrochim/CUVLO_LATEX_KIT_1661.webp"
         },
         {
             "name": "CUVLO LATEX CM 30 KIT 20 KG",
-            "image": ""
+            "image": "img/products/afrochim/HM012_CUVLO_LATEX_CM_30_1659.webp"
         },
         {
             "name": "CUVLO RESERVOIR - KIT DE 35KG",
-            "image": ""
+            "image": "img/products/afrochim/HM011_CUVLORESERVOIR_1662.webp"
         },
         {
             "name": "DECOFFRANT EN POUDRE GRIS - C601",
-            "image": ""
+            "image": "img/products/afrochim/DECOFFRANT_1663.jpg"
         },
         {
             "name": "DECOFFRANT EN POUDRE GRIS CLAIR - C602",
-            "image": ""
+            "image": "img/products/afrochim/DECOFFRANT_1663.jpg"
         },
         {
             "name": "DECOFFRANT EN POUDRE GRIS FONCE - C603",
-            "image": ""
+            "image": "img/products/afrochim/DECOFFRANT_1663.jpg"
         },
         {
             "name": "DECOFFRANT EN POUDRE GRIS ANTHRACITE - C604",
-            "image": ""
+            "image": "img/products/afrochim/DECOFFRANT_1663.jpg"
         },
         {
             "name": "DECOFFRANT EN POUDRE NOIR - C605",
-            "image": ""
+            "image": "img/products/afrochim/DECOFFRANT_1663.jpg"
         },
         {
             "name": "DECOFFRANT EN POUDRE ROUGE - C607",
-            "image": ""
+            "image": "img/products/afrochim/DECOFFRANT_1663.jpg"
         },
         {
             "name": "DECOFFRANT EN POUDRE BEIGE - C608",
-            "image": ""
+            "image": "img/products/afrochim/DECOFFRANT_1663.jpg"
         },
         {
             "name": "DECOFFRANT EN POUDRE JAUNE - C609",
-            "image": ""
+            "image": "img/products/afrochim/DECOFFRANT_1663.jpg"
         },
         {
             "name": "DECOFFRANT EN POUDRE MARRON - C610",
-            "image": ""
+            "image": "img/products/afrochim/DECOFFRANT_1663.jpg"
         },
         {
             "name": "DECOFFRANT EN POUDRE MARRON FONCE - C611",
-            "image": ""
+            "image": "img/products/afrochim/DECOFFRANT_1663.jpg"
         },
         {
             "name": "DECOFFRANT EN POUDRE BLANC - C612",
-            "image": ""
+            "image": "img/products/afrochim/DECOFFRANT_1663.jpg"
         },
         {
             "name": "DECOFFRANT EN POUDRE NEUTRE - C613",
-            "image": ""
+            "image": "img/products/afrochim/DECOFFRANT_1663.jpg"
         },
         {
             "name": "AGENT DE DEMOULAGE - BIDON 20L",
-            "image": ""
+            "image": "img/products/afrochim/HT001_AGENT_DE_DEMOULAGE_BIODEGRADABLE_1580.webp"
         },
         {
             "name": "SEAL GROUT 820 - SAC DE 25KG",
-            "image": ""
+            "image": "img/products/afrochim/HS004_SEAL_GROUT_820_1814.webp"
         },
         {
             "name": "ECOFIX W - SAC DE 20KG",
-            "image": ""
+            "image": "img/products/afrochim/ECOFIX_W_1678.webp"
         },
         {
             "name": "ECOFIX W / C1T - SAC DE 25KG",
-            "image": ""
+            "image": "img/products/afrochim/ECOFIX_W_1678.webp"
         },
         {
             "name": "ETALASTIC° V - SEAU DE 5KG",
-            "image": ""
+            "image": "img/products/afrochim/ETALASTIC_V_1682.webp"
         },
         {
             "name": "ETALASTIC° V - SEAU DE 20KG",
-            "image": ""
+            "image": "img/products/afrochim/ETALASTIC_V_1682.webp"
         },
         {
             "name": "FIXO PLAQUE",
-            "image": ""
+            "image": "img/products/afrochim/HQ015_FIXO_PLAQUE_1683.webp"
         },
         {
             "name": "SEAL GROUT 08 - SAC DE 25KG",
-            "image": ""
+            "image": "img/products/afrochim/HS005_SEAL_GROUT_08_1813.webp"
         },
         {
             "name": "HYDRO-ETANCHE LC35 - BIDON DE 01L",
-            "image": ""
+            "image": "img/products/afrochim/HW001_HYDRO_ETANCHE_LC35_1686.webp"
         },
         {
             "name": "HYDRO-ETANCHE LC35 - BIDON DE 05L",
-            "image": ""
+            "image": "img/products/afrochim/HW001_HYDRO_ETANCHE_LC35_1686.webp"
         },
         {
             "name": "HYDRO-ETANCHE LC35 - BIDON DE 20L",
-            "image": ""
+            "image": "img/products/afrochim/HW001_HYDRO_ETANCHE_LC35_1686.webp"
         },
         {
             "name": "JOINT FILLER 2 HEURES - SAC DE 25KG",
-            "image": ""
+            "image": "img/products/afrochim/JOINT_FILLER_1692.webp"
         },
         {
             "name": "JOINT FILLER 04 HEURES - SAC DE 25KG",
-            "image": ""
+            "image": "img/products/afrochim/JOINT_FILLER_1692.webp"
         },
         {
             "name": "JOINT FILLER 08 HEURES - SAC DE 25KG",
-            "image": ""
+            "image": "img/products/afrochim/JOINT_FILLER_1692.webp"
         },
         {
             "name": "HYDROLATEX - 1L",
-            "image": ""
+            "image": "img/products/afrochim/HYDROLATEX_1688.webp"
         },
         {
             "name": "HYDROLATEX - 5L",
-            "image": ""
+            "image": "img/products/afrochim/HYDROLATEX_1688.webp"
         },
         {
             "name": "HYDROLATEX - 20L",
-            "image": ""
+            "image": "img/products/afrochim/HYDROLATEX_1688.webp"
         },
         {
             "name": "MICROBETON KIT - COULEUR NEUTRE",
-            "image": ""
+            "image": "img/products/afrochim/HU003_MICROBETON_KIT_COULEUR_NEUTRE_1700.webp"
         },
         {
             "name": "MAGIC WALL EXTRA FIN - SAC MASTIC 25KG",
-            "image": ""
+            "image": "img/products/afrochim/HQ016_MAGIC_WALL_EXTRA_FIN_1697.webp"
         },
         {
             "name": "MAGIC WALL FIN - SAC DE25KG",
-            "image": ""
+            "image": "img/products/afrochim/HQ011_MAGIC_WALL_FIN_1698.webp"
         },
         {
             "name": "MAGIC WALL GROS - SAC MASTIC 25KG",
-            "image": ""
+            "image": "img/products/afrochim/HQ012_MAGIC_WALL_GROS_1699.webp"
         },
         {
             "name": "POLYJOINT BLANC JOYA C902 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT BEIGE CLAIR C803 - 12KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT BEIGE CLAIR C803 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT BEIGE FONCE C804 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT IMPERMEABLE BLEU OCEAN C926 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT BEIGE SABLE C914 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT EMPERADOR LIGHT  C915 - 3KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_3KG_7894.webp"
         },
         {
             "name": "POLYJOINT GRIS C905 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT GRIS PLATINE C903 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT GRIS C822 - 12KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT GRIS ARDOISE C907 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT GRIS PERLE  C904 - 3KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_3KG_7894.webp"
         },
         {
             "name": "POLYJOINT GRIS PERLE  C904 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT GRIS CIMENT  C906 - 3KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_3KG_7894.webp"
         },
         {
             "name": "POLYJOINT GRIS CIMENT  C906 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT ONYX C909 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT GREGE C913 - 3KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_3KG_7894.webp"
         },
         {
             "name": "POLYJOINT GREGE C913 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT GRIS ANTHRACITE C908 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT IMPERMEABLE TURQUOISE C927 - 3KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_3KG_7894.webp"
         },
         {
             "name": "WATERPLUG - SEAU DE 3KG",
-            "image": ""
+            "image": "img/products/afrochim/HX001_WATERPLUG_1839.webp"
         },
         {
             "name": "POLYJOINT BEIGE TRAVERTIN C912 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT BLANC JOYA C902 - SEAU DE 3KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_3KG_7894.webp"
         },
         {
             "name": "POLYJOINT ULTRA BLANC C901 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT EXTRA BLANC C801 - 12KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT BLEU CLAIR C809 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT BEIGE C931 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT JASMIN C911 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT BEIGE C802 - 12KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT BLEU C808 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT BEIGE PERLITE C917 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT CARAMEL C916 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT CHOCOLAT C919 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT EMPERADOR LIGHT C915 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT IVOIR C824 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT JAUNE C817 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT MARRON C918 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT MARRON C805 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT MARRON EMPERADOR DARK C920 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT MARRON CLAIR C806 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT MARRON FONCE C807 - 5 KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLYJOINT NOIR GALAXY C910 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT ORANGE C819 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT ROUGE C818 - 5 KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT SAUMON C821 - 5 KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT VERT C815 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "POLY JOINT VERT MENTHE C816 - 5KG",
-            "image": ""
+            "image": "img/products/afrochim/POLY_JOINT_IMPERMEABLE_5KG_1724.webp"
         },
         {
             "name": "PROTECT FACADE - BIDON DE 1L",
-            "image": ""
+            "image": "img/products/afrochim/PROTECT_FACADE_1803.webp"
         },
         {
             "name": "PROTECT FACADE - BIDON DE 5L",
-            "image": ""
+            "image": "img/products/afrochim/PROTECT_FACADE_1803.webp"
         },
         {
             "name": "PROTECT FACADE - BIDON DE 20L",
-            "image": ""
+            "image": "img/products/afrochim/PROTECT_FACADE_1803.webp"
         },
         {
             "name": "POLY JOINT SOL IMPERMEABLE BEIGE C709 - 5 KG",
-            "image": ""
+            "image": "img/products/afrochim/POLYJOINT_SOL_1787.webp"
         },
         {
             "name": "POLY JOINT SOL IMPERMEABLE EXTRA-BLANC - 5 KG",
-            "image": ""
+            "image": "img/products/afrochim/POLYJOINT_SOL_1787.webp"
         },
         {
             "name": "REPCRET RM28 - SEAU DE 05KG",
-            "image": ""
+            "image": "img/products/afrochim/REPCRETE_RM28_1808.webp"
         },
         {
             "name": "REPCRET RM28 - SAC DE 25KG",
-            "image": ""
+            "image": "img/products/afrochim/REPCRETE_RM28_1808.webp"
         },
         {
             "name": "SCELDUR FX56 - KIT DE 1.2KG",
-            "image": ""
+            "image": "img/products/afrochim/SCELDUR_FX_56_7552.webp"
         },
         {
             "name": "ULTRA COLLE PRO - SAC 25 KG",
-            "image": ""
+            "image": "img/products/afrochim/ULTRA_COLLE_PRO_1819.webp"
         },
         {
             "name": "ULTRA-JOINT IMPERMEABLE BLANC  JOYA 301-3KG-",
-            "image": ""
+            "image": "img/products/afrochim/ULTRA_JOINT_1821.webp"
         },
         {
             "name": "ULTRA-JOINT IMPERMEABLE GRIS 302 -3KG-",
-            "image": ""
+            "image": "img/products/afrochim/ULTRA_JOINT_1821.webp"
         },
         {
             "name": "ULTRA-JOINT IMPERMEABLE GREGE 306  -3KG-",
-            "image": ""
+            "image": "img/products/afrochim/ULTRA_JOINT_1821.webp"
         },
         {
             "name": "ULTRA-JOINT IMPERMEABLE BLANC 314-3KG-",
-            "image": ""
+            "image": "img/products/afrochim/ULTRA_JOINT_1821.webp"
         },
         {
             "name": "ULTRA SOL GRIS NATUREL C901 - SAC 25KG",
-            "image": ""
+            "image": "img/products/afrochim/HS003_ULTRA_SOL_COULEUR_GRIS_NATUREL_C901_1835.webp"
         },
         {
             "name": "ULTRA-JOINT IMPERMEABLE GRIS -3KG-",
-            "image": ""
+            "image": "img/products/afrochim/ULTRA_JOINT_1821.webp"
         },
         {
             "name": "VERNIS SOL - 4 L",
-            "image": ""
+            "image": "img/products/afrochim/HJ002_VERNIS_SOL_1836.webp"
         },
         {
             "name": "VERNIS SOL - SEAU DE 17L",
-            "image": ""
+            "image": "img/products/afrochim/HJ002_VERNIS_SOL_1836.webp"
         }
     ],
     "appareillage": [
         {
             "name": "BASE COLONNE SIGNALISATION H-90",
-            "image": ""
+            "image": "img/products/appareillage/BASE COLONNE SIGNALISATION H-90.webp"
         },
         {
             "name": "BOSCH LASER LIGNES GLL 2-80 PROFESSIONAL",
-            "image": ""
+            "image": "img/products/appareillage/niveau_laser_lineaire_gll_2_bosch_jpg_fa9b7b.jpg"
         },
         {
             "name": "CASQUE DE PROTECTION J-O-R-V-BLEU",
-            "image": ""
+            "image": "img/products/appareillage/48_1_1_jpg_eecf59.jpg"
         },
         {
             "name": "COUPE CARREAU MANUEL 1.20ML APT",
-            "image": ""
+            "image": "img/products/appareillage/coupe_carreau_manuel_1_2_metre_jpg_3c6733.jpg"
         },
         {
             "name": "COUPE CARREAU MANUEL 1.60ML APT",
-            "image": ""
+            "image": "img/products/appareillage/coupe_carreau_manuel_1_6_metre_jpg_be40ce.jpg"
         },
         {
             "name": "COUPE CARREAU PROF 01ML ACEM",
-            "image": ""
+            "image": "img/products/appareillage/900010_Coupe_carreaux_professionnel_1000mm_1_3_270x270_c_jpg_9bb1c6.jpg"
         },
         {
             "name": "COUPE CARREAU PROF 600MM ACEM",
-            "image": ""
+            "image": "img/products/appareillage/coupe_carreaux_professionnel_600mm_acem_jpg_f55715.jpg"
         },
         {
             "name": "COUPE CARREAUX ELECTRIQUE 1.60M/25MM 2300W - APT",
-            "image": ""
+            "image": "img/products/appareillage/COUPE CARREAUX ELECTRIQUE 1.60M_25MM_2300W_APT.jpg"
         },
         {
             "name": "CHARGEUR VENTOUSE VIBRANTE 12V - APT",
-            "image": ""
+            "image": "img/products/appareillage/CHARGEUR VENTOUSE VIBRANTE 12V - APT.jpg"
         },
         {
             "name": "COMPRESSEUR 100L/220V - SHAMAL",
-            "image": ""
+            "image": "img/products/appareillage/compresseur_100l_2hp_monophase_shamal_jpg_5a3ac8.jpg"
         },
         {
             "name": "CONE DE SIGNALISATION 32CM PVC",
-            "image": ""
+            "image": "img/products/appareillage/Cone_de_signalisation_webp_78abc5.webp"
         },
         {
             "name": "CONE DE SIGNALISATION 50CM PVC",
-            "image": ""
+            "image": "img/products/appareillage/Cone_de_signalisation_webp_78abc5.webp"
         },
         {
             "name": "CUTTER AVEC CHARGE - LAMBOSS/  20286",
-            "image": ""
+            "image": "img/products/appareillage/cutter_rechargement_automatique_cn5_acem_jpg_48bab6.jpg"
         },
         {
             "name": "CUTTER RENFORCER AVEC CHARGE - 18MM REF129",
-            "image": ""
+            "image": "img/products/appareillage/cutter_a_lame_secable_18mm_c10_acem_jpg_bb38d6.jpg"
         },
         {
             "name": "JEUX DE CHARBON WORX WU334 - REF.50023760",
-            "image": ""
+            "image": "img/products/appareillage/JEUX DE CHARBON WORX WU334 - REF.50023760.jpg"
         },
         {
             "name": "JEUX DE CHARBON WORX WX23AG",
-            "image": ""
+            "image": "img/products/appareillage/JEUX DE CHARBON WORX WX23AG.jpg"
         },
         {
             "name": "DISQUE COUPE CARREAUX ELECTRIQUE 120MM - APT",
-            "image": ""
+            "image": "img/products/appareillage/37_2_1_jpg_557fdc.jpg"
         },
         {
             "name": "GILET DE SECURITE FLUORESCENTE - ORANGE",
-            "image": ""
+            "image": "img/products/appareillage/80_1_1_jpg_4b7a3e.jpg"
         },
         {
             "name": "GILET DE SECURITE FLUORESCENTE - JAUNE",
-            "image": ""
+            "image": "img/products/appareillage/80_1_1_jpg_4b7a3e.jpg"
         },
         {
             "name": "GILET FLUORESCENTE WDF- ORANGE XL",
-            "image": ""
+            "image": "img/products/appareillage/80_1_1_jpg_4b7a3e.jpg"
         },
         {
             "name": "GILET FLUORESCENTE WDF- JAUNE XL",
-            "image": ""
+            "image": "img/products/appareillage/80_1_1_jpg_4b7a3e.jpg"
         },
         {
             "name": "GOULOTTE A GRAVATS PP 1.10 ML",
-            "image": ""
+            "image": "img/products/appareillage/GOULOTTE A GRAVATS PP 1.10 ML.webp"
         },
         {
             "name": "HELICE DE MALAXAGE ABRICOT - 590*140MM",
-            "image": ""
+            "image": "img/products/appareillage/1800W_MIXER_1_jpg_webp_a09599.webp"
         },
         {
             "name": "HELICE DE MALAXAGE IMP. - D.60",
-            "image": ""
+            "image": "img/products/appareillage/397426b50f69c77538b36f6e4599de0f_png_2d325f.png"
         },
         {
             "name": "HELICE DE MALAXAGE IMP. - D.80",
-            "image": ""
+            "image": "img/products/appareillage/397426b50f69c77538b36f6e4599de0f_png_2d325f.png"
         },
         {
             "name": "HELICE DE MALAXAGE IMP. D.100 / T50CM",
-            "image": ""
+            "image": "img/products/appareillage/397426b50f69c77538b36f6e4599de0f_png_2d325f.png"
         },
         {
             "name": "HELICE DE MALAXAGE IMP. - D.120",
-            "image": ""
+            "image": "img/products/appareillage/Photoroom_20250202_212643_1_png_109395.png"
         },
         {
             "name": "HELICE DE MALAXAGE L'O. PARFAIT - 590*140 (R.2707)",
-            "image": ""
+            "image": "img/products/appareillage/1800W_MIXER_1_jpg_webp_a09599.webp"
         },
         {
             "name": "HELICE DE MALAXAGE SDS+ D.120 / T.45CM SGS",
-            "image": ""
+            "image": "img/products/appareillage/Photoroom_20250202_212643_1_png_109395.png"
         },
         {
             "name": "HELICE DE MALAXAGE SDS+ D.100 / T60CM",
-            "image": ""
+            "image": "img/products/appareillage/397426b50f69c77538b36f6e4599de0f_png_2d325f.png"
         },
         {
             "name": "HELICE DE MALAXAGE SDS+ D.80 / T.40CM SGS",
-            "image": ""
+            "image": "img/products/appareillage/397426b50f69c77538b36f6e4599de0f_png_2d325f.png"
         },
         {
             "name": "JEUX DE PALETTE ACEM EXTRA - 4P",
-            "image": ""
+            "image": "img/products/appareillage/jeu_de_spatules_a_peinture_50_80_100_120mm_acem_jpg_3d98b9.jpg"
         },
         {
             "name": "JEUX DE PALETTE IMP. - 4PIECES",
-            "image": ""
+            "image": "img/products/appareillage/jeu_de_spatules_a_peinture_50_80_100_120mm_acem_jpg_3d98b9.jpg"
         },
         {
             "name": "MALAXEUR ASTRA 1800W 980TR/MIN",
-            "image": ""
+            "image": "img/products/appareillage/1800W_MIXER_1_jpg_webp_a09599.webp"
         },
         {
             "name": "MALAXEUR EINHEIL 1050W",
-            "image": ""
+            "image": "img/products/appareillage/397426b50f69c77538b36f6e4599de0f_png_2d325f.png"
         },
         {
             "name": "MALAXEUR EPICA- STAR- M14- 950W",
-            "image": ""
+            "image": "img/products/appareillage/397426b50f69c77538b36f6e4599de0f_png_2d325f.png"
         },
         {
             "name": "MALAXEUR 1220W - APT",
-            "image": ""
+            "image": "img/products/appareillage/397426b50f69c77538b36f6e4599de0f_png_2d325f.png"
         },
         {
             "name": "MALAXEUR 1400W - TOTAL",
-            "image": ""
+            "image": "img/products/appareillage/telechargement_1_jpeg_3b70c0.jpeg"
         },
         {
             "name": "MALAXEUR 1400W - APT",
-            "image": ""
+            "image": "img/products/appareillage/telechargement_1_jpeg_3b70c0.jpeg"
         },
         {
             "name": "MALAXEUR 1200W WMX151201 - WDF",
-            "image": ""
+            "image": "img/products/appareillage/397426b50f69c77538b36f6e4599de0f_png_2d325f.png"
         },
         {
             "name": "MOLETTE COUPE CARREAUX 5 - APT",
-            "image": ""
+            "image": "img/products/appareillage/760301_Molette_interchangeable_10mm_pour_coupe_carreaux_270x_20936a.jpg"
         },
         {
             "name": "MEULEUSE ANGULAIRE 230/2350W - INGCO",
-            "image": ""
+            "image": "img/products/appareillage/3_4_jpg_441715.jpg"
         },
         {
             "name": "METRE RUBAN ANTICHOC DINGQI/STARCLE - 3M",
-            "image": ""
+            "image": "img/products/appareillage/85_1_1_jpg_24849a.jpg"
         },
         {
             "name": "METRE RUBAN ANTICHOC GOZELA/STARCLE - 5M",
-            "image": ""
+            "image": "img/products/appareillage/metre_a_ruban_anti_choc_5m25mm_acem_jpg_53b17d.jpg"
         },
         {
             "name": "METRE RUBAN ACEM CHROME - 10M",
-            "image": ""
+            "image": "img/products/appareillage/metre_ruban_chromee_pro_1025m_ac_jpg_f71407.jpg"
         },
         {
             "name": "METRE RUBAN ANTICHOC ACEM - 5M",
-            "image": ""
+            "image": "img/products/appareillage/metre_a_ruban_anti_choc_5m25mm_acem_jpg_53b17d.jpg"
         },
         {
             "name": "METRE RUBAN ACEM - 3M",
-            "image": ""
+            "image": "img/products/appareillage/85_1_1_jpg_24849a.jpg"
         },
         {
             "name": "METRE RUBAN ACEM - 5M",
-            "image": ""
+            "image": "img/products/appareillage/54_2_1_jpg_13bcc8.jpg"
         },
         {
             "name": "METRE RUBAN ACEM CHROME- 8M",
-            "image": ""
+            "image": "img/products/appareillage/metre_ruban_chromee_pro_825mm_acem_jpg_26a90e.jpg"
         },
         {
             "name": "NIVEAU LASER 01 LIGNES ROUGE 20M - APT",
-            "image": ""
+            "image": "img/products/appareillage/47_12_jpg_35ccaf.jpg"
         },
         {
             "name": "NIVEAU LASER 02 LIGNES ROUGE 20M - APT",
-            "image": ""
+            "image": "img/products/appareillage/47_12_jpg_35ccaf.jpg"
         },
         {
             "name": "NIVEAU LASER 02 LIGNES VERT 20M - APT",
-            "image": ""
+            "image": "img/products/appareillage/7_13_jpg_052972.jpg"
         },
         {
             "name": "NIVEAU LASER 05 LIGNES VERT 30M CT44024- APT",
-            "image": ""
+            "image": "img/products/appareillage/WLE8M12_jpg_6e770a.jpg"
         },
         {
             "name": "PALETTE MASTIC 16CM - IMPORTEE",
-            "image": ""
+            "image": "img/products/appareillage/jeu_de_spatules_a_peinture_50_80_100_120mm_acem_jpg_3d98b9.jpg"
         },
         {
             "name": "PALETTE MASTIC 18CM - IMPORTEE",
-            "image": ""
+            "image": "img/products/appareillage/jeu_de_spatules_a_peinture_50_80_100_120mm_acem_jpg_3d98b9.jpg"
         },
         {
             "name": "PALETTE MASTIC 20CM - IMPORTEE",
-            "image": ""
+            "image": "img/products/appareillage/jeu_de_spatules_a_peinture_50_80_100_120mm_acem_jpg_3d98b9.jpg"
         },
         {
             "name": "PINCE POUR CROISILLON DE NIVELLEMENT",
-            "image": ""
+            "image": "img/products/appareillage/503000_Pince_croisillon_auto_270x270_c_jpg_6d9445.jpg"
         },
         {
             "name": "PISTOLET DE PEINTURE S990S",
-            "image": ""
+            "image": "img/products/appareillage/92_2_1_jpg_55bcd4.jpg"
         },
         {
             "name": "PISTOLET SILICONE METAL STAM",
-            "image": ""
+            "image": "img/products/appareillage/telechargement_37_jpeg_9343a2.jpeg"
         },
         {
             "name": "RESERVOIR PNEUMATIQUE 20L - PX-14",
-            "image": ""
+            "image": "img/products/appareillage/RESERVOIR PNEUMATIQUE 20L - PX-14.jpg"
         },
         {
             "name": "ROULETTE METRE RUBAN ORDINAIRE - 10M",
-            "image": ""
+            "image": "img/products/appareillage/metre_ruban_20m_jpg_4abdef.jpg"
         },
         {
             "name": "ROULETTE METRE RUBAN ORDINAIRE - 20M",
-            "image": ""
+            "image": "img/products/appareillage/metre_ruban_20m_jpg_4abdef.jpg"
         },
         {
             "name": "ROULETTE METRE RUBAN ORDINAIRE - 20M",
-            "image": ""
+            "image": "img/products/appareillage/metre_ruban_20m_jpg_4abdef.jpg"
         },
         {
             "name": "ROULETTE METRE RUBAN ORDINAIRE - 30M",
-            "image": ""
+            "image": "img/products/appareillage/metre_ruban_20m_jpg_4abdef.jpg"
         },
         {
             "name": "METRE RUBAN 8M*25MM DS TOOLS",
-            "image": ""
+            "image": "img/products/appareillage/metre_ruban_chromee_pro_825mm_acem_jpg_26a90e.jpg"
         },
         {
             "name": "ROULETTE METRE RUBAN ORDINAIRE - 50M",
-            "image": ""
+            "image": "img/products/appareillage/metre_ruban_20m_jpg_4abdef.jpg"
         },
         {
             "name": "METRE RUBAN - 5M / CAPITALE",
-            "image": ""
+            "image": "img/products/appareillage/54_2_1_jpg_13bcc8.jpg"
         },
         {
             "name": "METRE RUBAN ORDINAIRE - 7.5M",
-            "image": ""
+            "image": "img/products/appareillage/metre_ruban_chromee_pro_825mm_acem_jpg_26a90e.jpg"
         },
         {
             "name": "METRE RUBAN PROFESSIONNEL - 3M",
-            "image": ""
+            "image": "img/products/appareillage/85_1_1_jpg_24849a.jpg"
         },
         {
             "name": "METRE RUBAN PROFESSIONNEL - 5M",
-            "image": ""
+            "image": "img/products/appareillage/54_2_1_jpg_13bcc8.jpg"
         },
         {
             "name": "METRE RUBAN ANTICHOC ALPHA - 5M",
-            "image": ""
+            "image": "img/products/appareillage/metre_a_ruban_anti_choc_5m25mm_acem_jpg_53b17d.jpg"
         },
         {
             "name": "RUBAN DE SIGNALISATION 5CM/100M",
-            "image": ""
+            "image": "img/products/appareillage/95_1_1_jpg_656dff.jpg"
         },
         {
             "name": "RUBAN DE SIGNALISATION 6CM/180M",
-            "image": ""
+            "image": "img/products/appareillage/95_1_1_jpg_656dff.jpg"
         },
         {
             "name": "TELEMETRE DIGITAL LASER 0.15-40ML APT",
-            "image": ""
+            "image": "img/products/appareillage/telemetre_laser_40mt_apt_jpg_860498.jpg"
         },
         {
             "name": "TELEMETRE DIGITAL LASER 0.2-100ML APT",
-            "image": ""
+            "image": "img/products/appareillage/telemetre_laser_40mt_apt_jpg_860498.jpg"
         },
         {
             "name": "TENAILLE IMPORTEE - WORKSITE / BATI",
-            "image": ""
+            "image": "img/products/appareillage/66_1_1_jpg_41fdc0.jpg"
         },
         {
             "name": "TENAILLE ORDINAIRE",
-            "image": ""
+            "image": "img/products/appareillage/66_1_1_jpg_41fdc0.jpg"
         },
         {
             "name": "TENAILLE ACEM",
-            "image": ""
+            "image": "img/products/appareillage/66_1_1_jpg_41fdc0.jpg"
         },
         {
             "name": "TENAILLE INGCO - VAST - VEIBER - DING",
-            "image": ""
+            "image": "img/products/appareillage/66_1_1_jpg_41fdc0.jpg"
         },
         {
             "name": "TIGE MALAXEUR - APT",
-            "image": ""
+            "image": "img/products/appareillage/397426b50f69c77538b36f6e4599de0f_png_2d325f.png"
         },
         {
             "name": "TRIPIED NIVEAU LASER LA01 - APT",
-            "image": ""
+            "image": "img/products/appareillage/TRIPIED NIVEAU LASER LA01 - APT.jpg"
         },
         {
             "name": "TUYEAU FLEXIBLE/ PISTOLET LH01 - 15M",
-            "image": ""
+            "image": "img/products/appareillage/TUYEAU FLEXIBLE_PISTOLET LH01 - 15M.jpg"
         },
         {
             "name": "VIBREUR A BETON PORTATIF - 1300W",
-            "image": ""
+            "image": "img/products/appareillage/telechargement_7_2_jpeg_40a0cb.jpeg"
         },
         {
             "name": "VENTOUSE MANUEL SIMPLE - APT",
-            "image": ""
+            "image": "img/products/appareillage/ventouse_simple_jpg_6b96d3.jpg"
         },
         {
             "name": "VENTOUSE MANUEL DOUBLE - APT",
-            "image": ""
+            "image": "img/products/appareillage/ventouse_double_jpg_038386.jpg"
         },
         {
             "name": "VENTOUSE MANUEL TRIPLE ALU. - RHINO",
-            "image": ""
+            "image": "img/products/appareillage/telechargement_3_4_jpeg_5f1c56.jpeg"
         },
         {
             "name": "VENTOUSE MANUEL DOUBLE ALU. - RHINO",
-            "image": ""
+            "image": "img/products/appareillage/telechargement_15_1_jpeg_949e68.jpeg"
         },
         {
             "name": "VENTOUSE MANUEL TRIPLE - APT",
-            "image": ""
+            "image": "img/products/appareillage/ventouse_triple_160kg_jpg_3cb9e1.jpg"
         },
         {
             "name": "VENTOUSE DE POSE VIBRANTE 12V-100KG - APT",
-            "image": ""
+            "image": "img/products/appareillage/Photoroom_20250217_232700_png_bc500f.png"
         },
         {
             "name": "VENTOUSE DE POSE VIBRANTE 12V-150W - RHINO",
-            "image": ""
+            "image": "img/products/appareillage/503017_Ventouse_de_pose_carreaux_vibrante_270x270_c_jpg_860ea5.jpg"
         },
         {
             "name": "VENTOUSE DE POSE VIBRANTE 20V-150KG - APT",
-            "image": ""
+            "image": "img/products/appareillage/Photoroom_20250217_232700_png_bc500f.png"
         },
         {
             "name": "DECAPEUR THERMIQUE 2000W + ACC. - APT",
-            "image": ""
+            "image": "img/products/appareillage/telechargement_10_jpeg_8808cb.jpeg"
         },
         {
             "name": "PERCEUSE 500W - WORX",
-            "image": ""
+            "image": "img/products/appareillage/35_4_jpg_6ac154.jpg"
         },
         {
             "name": "PERCEUSE-VISSEUSE PRO WORX 10MM/12V",
-            "image": ""
+            "image": "img/products/appareillage/0023161_perceuse_visseuse_25nm_12v_avec_2_batteries_tdli1228_5511ad.jpeg"
         },
         {
             "name": "TOURNEVIS PRO WORX 4V - WU255",
-            "image": ""
+            "image": "img/products/appareillage/visseuse_36v100v_go_9h2ok1_bosch_jpg_91fd9e.jpg"
         },
         {
             "name": "PERCEUSE PRO WORX A PERCUSSION 13MM",
-            "image": ""
+            "image": "img/products/appareillage/35_4_jpg_6ac154.jpg"
         },
         {
             "name": "MARTEAU SDS+ 900W WORX - 5.5J",
-            "image": ""
+            "image": "img/products/appareillage/marteau_perforateur_sds_plus_790w_gbh_2_24_dre_bosch_jpg_73de7a.jpg"
         },
         {
             "name": "MARTEAU SDS MAX 1050W WORX - 6J",
-            "image": ""
+            "image": "img/products/appareillage/marteau_perfo_1100w_gbh5_40d_bosch_jpg_bd0048.jpg"
         },
         {
             "name": "PONCEUSE VIBRANTE PRO WORX 300W",
-            "image": ""
+            "image": "img/products/appareillage/ponceuse_vibrante_190wgss2300_bosch_jpg_c4eb76.jpg"
         },
         {
             "name": "PONCEUSE PRO WORX 210W 11.3CM/10.2C",
-            "image": ""
+            "image": "img/products/appareillage/ponceuse_excentrique_250w_gex125_1ae_bosch_jpg_9b1f1a.jpg"
         },
         {
             "name": "SCIE MULTIFONCTION / SONICRAFTER - WU678",
-            "image": ""
+            "image": "img/products/appareillage/SCIE MULTIFONCTION_SONICRAFTER - WU678.jpg"
         },
         {
             "name": "MEULEUSE PRO WORX 115MM / 710W",
-            "image": ""
+            "image": "img/products/appareillage/99_2_jpg_5ad03c.jpg"
         },
         {
             "name": "MEULEUSE PRO WORX 125MM / 850W",
-            "image": ""
+            "image": "img/products/appareillage/29_3_1_jpg_3b9369.jpg"
         },
         {
             "name": "MEULEUSE PRO WORX 230MM / 2000W",
-            "image": ""
+            "image": "img/products/appareillage/3_4_jpg_441715.jpg"
         },
         {
             "name": "MEULEUSE PRO WORX 230MM / 2500W",
-            "image": ""
+            "image": "img/products/appareillage/3_4_jpg_441715.jpg"
         },
         {
             "name": "MEULEUSE PRO WORX WU830 125MM / 720W",
-            "image": ""
+            "image": "img/products/appareillage/29_3_1_jpg_3b9369.jpg"
         },
         {
             "name": "KIT VISSEUSE-PERCEUSE WORX 16V - WX152",
-            "image": ""
+            "image": "img/products/appareillage/visseuse_sans_fil_2bat_18v_adegso_jpg_5ef6f6.jpg"
         },
         {
             "name": "KIT VISSEUSE-PERCEUSE WORX 16V - WX152.2",
-            "image": ""
+            "image": "img/products/appareillage/visseuse_sans_fil_2bat_18v_adegso_jpg_5ef6f6.jpg"
         },
         {
             "name": "MEULEUSE D'ANGLE SEMI PRO WORX 230MM",
-            "image": ""
+            "image": "img/products/appareillage/3_4_jpg_441715.jpg"
         },
         {
             "name": "TOURNEVIS SEMI PRO WORX 4V - WX254",
-            "image": ""
+            "image": "img/products/appareillage/visseuse_36v100v_go_9h2ok1_bosch_jpg_91fd9e.jpg"
         },
         {
             "name": "PERCEUSE A PERC. SEMI PRO WORX - 13MM/810W",
-            "image": ""
+            "image": "img/products/appareillage/35_4_jpg_6ac154.jpg"
         },
         {
             "name": "PERCEUSE SEMI-PRO WORX - 13MM/650W",
-            "image": ""
+            "image": "img/products/appareillage/35_4_jpg_6ac154.jpg"
         },
         {
             "name": "MARTEAU SEMI PRO WORX 6KG / 1250W",
-            "image": ""
+            "image": "img/products/appareillage/marteau_perfo_1100w_gbh5_40d_bosch_jpg_bd0048.jpg"
         },
         {
             "name": "SCIE CIRCULAIRE SEMI PRO WORX 310W",
-            "image": ""
+            "image": "img/products/appareillage/scie_circulaire_18v_gks18v_57_bosch_jpg_407e2d.jpg"
         },
         {
             "name": "SCIE CIRCULAIRE SEMI PRO WORX - DIAM.160",
-            "image": ""
+            "image": "img/products/appareillage/scie_circulaire_18v_gks18v_57_bosch_jpg_407e2d.jpg"
         },
         {
             "name": "RABOT 950W PRO - WORX",
-            "image": ""
+            "image": "img/products/appareillage/rabot_650w_gho6500_bosch_jpg_cc5e7a.jpg"
         },
         {
             "name": "PONCEUSE VIBRANTE SEMI PRO WORX 220W",
-            "image": ""
+            "image": "img/products/appareillage/ponceuse_vibrant_190w_gss23ae_bosch_jpg_698225.jpg"
         },
         {
             "name": "PONCEUSE ROTATIVE SEMI PRO WORX 300",
-            "image": ""
+            "image": "img/products/appareillage/ponceuse_excentrique_250w_gex125_1ae_bosch_jpg_9b1f1a.jpg"
         },
         {
             "name": "MEULEUSE D'ANGLE SEMI PRO WORX 115M",
-            "image": ""
+            "image": "img/products/appareillage/99_2_jpg_5ad03c.jpg"
         },
         {
             "name": "MEULEUSE D'ANGLE SEMI PRO WORX 125M",
-            "image": ""
+            "image": "img/products/appareillage/29_3_1_jpg_3b9369.jpg"
         },
         {
             "name": "SCIE SABRE SEMI PRO WORX 800W",
-            "image": ""
+            "image": "img/products/appareillage/scie_sabre_1100w_gsa1100e_bosch_jpg_0dc92f.jpg"
         }
     ],
     "cbk": [
@@ -3866,7 +3866,7 @@ const productCatalogue = {
     "geko": [
         {
             "name": "GEKO ANCHOR PRO - 300ML",
-            "image": ""
+            "image": "img/products/geko/GEKO_ANCHOR PRO_300ML.jpeg"
         },
         {
             "name": "BATONNET HOT MELT TRANSLUCIDE 1505 - GEKO",
@@ -3874,7 +3874,7 @@ const productCatalogue = {
         },
         {
             "name": "BATONNET HOT MELT TRANSPARENT 1500 - GEKO",
-            "image": ""
+            "image": "img/products/geko/BATONNET_HOT_MELT_TRANSPARENT_1500_-_GEKO.webp"
         },
         {
             "name": "BATONNET HOT MELT TRANSLUCIDE 1505 - GEKO SAC 1KG",
@@ -3898,7 +3898,7 @@ const productCatalogue = {
         },
         {
             "name": "CARRO-JOINT GEKO CE50 BEIGE CLAIR - S.6KG",
-            "image": ""
+            "image": "img/products/geko/CARRO-JOINT_GEKO_CE50_BEIGE_CLAIR_-_S.6KG.webp"
         },
         {
             "name": "CARRO-JOINT GEKO CE50 BEIGE FONCE - S.3KG",
@@ -3946,7 +3946,7 @@ const productCatalogue = {
         },
         {
             "name": "FM 2000 WHITE DEUTSCHCOLOR",
-            "image": ""
+            "image": "img/products/geko/FM_2000_WHITE_DEUTSCHCOLOR.png"
         },
         {
             "name": "CIMENT COLLE GEKO CM10 GRIS - SAC 25KG",
@@ -3990,15 +3990,11 @@ const productCatalogue = {
         },
         {
             "name": "CIMENT COLLE GEKO ECOSTAR BLANC - SAC 25KG",
-            "image": ""
+            "image": "img/products/geko/CIMENT_COLLE_GEKO_ECOSTAR_BLANC_SAC_25KG.webp"
         },
         {
             "name": "GEOTEX GT60 - LE ML",
-            "image": ""
-        },
-        {
-            "name": "XXXXXXXXXXXX",
-            "image": ""
+            "image": "img/products/geko/GEOTEX_GT60 _LE_ML.webp"
         },
         {
             "name": "GEKOLATEX - 1L",
@@ -4014,7 +4010,7 @@ const productCatalogue = {
         },
         {
             "name": "PISTOLET SILICONE DEMI CYLINDRE - GEKO",
-            "image": ""
+            "image": "img/products/geko/PISTOLET_SILICONE_DEMI_CYLINDRE_-_GEKO.webp"
         },
         {
             "name": "PISTOLET DEMI CYLINDRE PRO - GEKO",
@@ -4358,6 +4354,1068 @@ const productCatalogue = {
         },
         {
             "name": "VIS ETANCO L.ROCHE 48/65 SOLIDE AU PAS",
+            "image": ""
+        }
+    ],
+    "isomat": [
+        {
+            "name": "SILICONE ABC EXTRA 689 - TUBE 310ML TRANSP.",
+            "image": ""
+        },
+        {
+            "name": "SILICONE ABC EXTRA 300 - TUBE 500GR BLANC",
+            "image": ""
+        },
+        {
+            "name": "SILICONE ABC EXTRA 300 - TUBE 500GR NOIR",
+            "image": ""
+        },
+        {
+            "name": "ACRYL DECO FINISH BLANC S.05KG - ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ACRYL DECO FINISH COLORE S.05KG - ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ACRYL DECO SOLO BLANC S.05KG - ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ACRYL DECO FINISH BLANC S.15KG - ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ACRYL DECO FINISH COLORE S.15KG - ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ACRYL DECO SOLO BLANC S.15KG - ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ADIPLAST BLANC -  01KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ADIPLAST BLANC -  05KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ADIPLAST BLANC -  20KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AFITEX G2 ASQUAL 1M/25M - 100GR",
+            "image": ""
+        },
+        {
+            "name": "AFITEX G6 2M/1M - 280GR",
+            "image": ""
+        },
+        {
+            "name": "AFITEX G7 2M/1M - 330GR",
+            "image": ""
+        },
+        {
+            "name": "AQUAMAT BLANC - 05KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAMAT FLEX GRIS KIT 18KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAMAT BLANC -  25KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAMAT FLEX GRIS KIT 33KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAMAT ADMIX SAC 04KG GRIS ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAMAT ADMIX SAC 20KG GRIS ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAMAT ELASTIC BLANC KIT 18KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAMAT ELASTIC BLANC KIT 35G ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAFIX GRIS 01KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAFIX GRIS 05KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAFIX GRIS 15KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAMAT MONOFLEX BLANC - SAC 18KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAMAT PENETRATE SAC 04KG GRIS ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAMAT PENETRATE SAC 20KG GRIS ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "AQUAMAT PLUS GRIS KIT 21KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ASPHALTOS ISOMAT - SEAU 25KG",
+            "image": ""
+        },
+        {
+            "name": "BANDE WATERBAR A-19 YELLOW - ROUL. DE 30M / ML",
+            "image": ""
+        },
+        {
+            "name": "BANDE WATERBAR D-19 YELLOW - ROUL. DE 15M / ML",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT BATH & KITCHEN (BLANC) - 3L",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT BATH & KITCHEN (BLANC) - 10L",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT BATH & KITCHEN (BLANC) - 0.75L",
+            "image": ""
+        },
+        {
+            "name": "BEVETOL-SPL (SUPER-PLASTIFIANT) ISOMAT - 20KG",
+            "image": ""
+        },
+        {
+            "name": "DUREBOND (GRIS) / ISOMAT - 1KG",
+            "image": ""
+        },
+        {
+            "name": "DUREBOND (GRIS) / ISOMAT - 4KG",
+            "image": ""
+        },
+        {
+            "name": "PLASTIMENT BV 40 - BIDON DE 25 KG",
+            "image": ""
+        },
+        {
+            "name": "CONSERVADO - BIDON DE 1L",
+            "image": ""
+        },
+        {
+            "name": "CONSERVADO - BIDON DE 5L",
+            "image": ""
+        },
+        {
+            "name": "CONSERVADO - BIDON DE 20L",
+            "image": ""
+        },
+        {
+            "name": "CORDON COUPE FEU (BOURELET) 511/ML",
+            "image": ""
+        },
+        {
+            "name": "MARMOCRET-SP (BLANC) / ISOMAT - SAC DE 25KG",
+            "image": ""
+        },
+        {
+            "name": "ISOCUR-A -  20KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT DECO RESINE-V - 01KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT DECO RESINE-V - 05KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT DECO RESINE-V - 05KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT DECO RESINE - 20KG",
+            "image": ""
+        },
+        {
+            "name": "DECO COLOR (BLEU EGEEN) 5*50GR -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DECO COLOR (MARRON CLAIR) 5*50GR -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DECO COLOR (MARRON FONCE) 5*50GR -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DECO COLOR (NOIR) 5*50GR -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DECO COLOR (ORANGE) 5*50GR -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DECO COLOR (OCRE) 5*50GR -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DECO COLOR (ROUGE BRIQUE) 5*50GR -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DECO COLOR (ROUGE BRUN) 5*50GR -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DECO COLOR (VIOLET) 5*50GR -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DECO COLOR (VERT) 5*50GR -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DUROCRET PLUS GRIS / ISOMAT - SAC DE 05KG",
+            "image": ""
+        },
+        {
+            "name": "DUROCRET PLUS GRIS / ISOMAT - SAC DE 25KG",
+            "image": ""
+        },
+        {
+            "name": "DUROCRET TERRAZZO / ISOMAT - SAC DE 25KG",
+            "image": ""
+        },
+        {
+            "name": "DUROFLOOR - PUC MF6 KIT 34KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DUROCRET -DECOFLEX SAC 25K BLANC -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DUROCRET-DECO FINISH SAC 25K BLANC -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DUROCRET -DECO FINISH SAC 25K BLANC -  ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "DUROCRET PENETRATE SAC 25K GRIS ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "EPOMAX-EK (GRIS) / ISOMAT - 01KG",
+            "image": ""
+        },
+        {
+            "name": "EPOXYCOAT-S ISOMAT (BLEU PISCINE) RAL 9003 - 02KG",
+            "image": ""
+        },
+        {
+            "name": "EPOXYCOAT-AC RAL7040 - ISOMAT 03 KG",
+            "image": ""
+        },
+        {
+            "name": "EPOMAX-EK / ISOMAT - 04KG",
+            "image": ""
+        },
+        {
+            "name": "EPOXYCOAT-AC RAL7040 - ISOMAT 08 KG",
+            "image": ""
+        },
+        {
+            "name": "EPOXYCOAT-S (BLEU PISCINE) RAL 9003 - ISOMAT 9.6KG",
+            "image": ""
+        },
+        {
+            "name": "EPOXYCOAT-W - 12KG",
+            "image": ""
+        },
+        {
+            "name": "EPOXYCOAT-S (BLEU) - ISOMAT 28.8KG",
+            "image": ""
+        },
+        {
+            "name": "EPOXYCOAT-W BASE P - 09KG",
+            "image": ""
+        },
+        {
+            "name": "EPOXYCOAT-W BASE TR - 09KG",
+            "image": ""
+        },
+        {
+            "name": "EPOMAX-ANCHOR GRIS FONCE 300ML / ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "RES EPO-JOINT CX32 AGATA - SEAU DE 5KG",
+            "image": ""
+        },
+        {
+            "name": "EPOMAX ANCHOR (GRIS FONCE) / ISOMAT - 300ML",
+            "image": ""
+        },
+        {
+            "name": "EPOMAX L-10 (JAUNE-TRANSP.) / ISOMAT - 01KG",
+            "image": ""
+        },
+        {
+            "name": "EPOMAX -LIQUID GLASS (TRANSPARENT) / ISOMAT - 01KG",
+            "image": ""
+        },
+        {
+            "name": "EPOMAX L-10 (JAUNE-TRANSP.) / ISOMAT - 3KG",
+            "image": ""
+        },
+        {
+            "name": "EPOMAX -LIQUID GLASS (TRANSPARENT) / ISOMAT - 03KG",
+            "image": ""
+        },
+        {
+            "name": "EPOMAX L-20 (JAUNE-TRANSP.) / ISOMAT - 01KG",
+            "image": ""
+        },
+        {
+            "name": "EPOXY PRIMER-500 B-01KG J-CLAIR ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "EPOXY PRIMER-500 S-04KG J-CLAIR ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "EPOXY PRIMER-500 S-20KG J-CLAIR ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "EPOXY PRIMER-500 B-10KG J-CLAIR ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "FERROSEAL (ROUGE) - BOITE 01KG / ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "FERROSEAL (ROUGE) - BOITE 05KG / ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "FERROSEAL (ROUGE) - BOITE 15KG / ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "FERROSEAL-CSI (TRANSPARENT) - BOITE 15KG / ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 1M - LE ML",
+            "image": ""
+        },
+        {
+            "name": "FIBRE DE VERRE 65GR/M2 / ISOMAT - R.50ML*10CM",
+            "image": ""
+        },
+        {
+            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 50M/30CM",
+            "image": ""
+        },
+        {
+            "name": "GRILLAGE EN FIBRE CH 30CM/50M",
+            "image": ""
+        },
+        {
+            "name": "GRILLAGE EN FIBRE FIXA 10*10 - 50M/30CM",
+            "image": ""
+        },
+        {
+            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 50M/50CM",
+            "image": ""
+        },
+        {
+            "name": "GRILLAGE EN FIBRE CH 50CM/50M",
+            "image": ""
+        },
+        {
+            "name": "GRILLAGE EN FIBRE FIXA 10*10 - 50M/50CM",
+            "image": ""
+        },
+        {
+            "name": "FIBRE DE VERRE 75GR/M2 / ISOMAT - RLX 50ML",
+            "image": ""
+        },
+        {
+            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 50M/1M",
+            "image": ""
+        },
+        {
+            "name": "GRILLAGE EN FIBRE FIXA 10*10 - 50M/1M",
+            "image": ""
+        },
+        {
+            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 25M/1M",
+            "image": ""
+        },
+        {
+            "name": "FIBRE DE VERRE 125GR/M2 / ISOMAT - RLX 50ML",
+            "image": ""
+        },
+        {
+            "name": "FIBRE DE VERRE 150GR/M2 1ML",
+            "image": ""
+        },
+        {
+            "name": "FIBRE DE VERRE 160GR/M2 / ISOMAT - RLX 50ML",
+            "image": ""
+        },
+        {
+            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 25M/30CM",
+            "image": ""
+        },
+        {
+            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 25M/50CM",
+            "image": ""
+        },
+        {
+            "name": "POLY FIBER DEUTSCHCOLOR  6-12MM - DOSE 600GR",
+            "image": ""
+        },
+        {
+            "name": "FITBOND LATEX - 20L",
+            "image": ""
+        },
+        {
+            "name": "FLEXCOAT BLANC ISOMAT - SEAU 03L",
+            "image": ""
+        },
+        {
+            "name": "FLEXCOAT BLANC ISOMAT - SEAU 10L",
+            "image": ""
+        },
+        {
+            "name": "FLOWCRET 3-30 EXPRESS / ISOMAT - SAC DE 25KG",
+            "image": ""
+        },
+        {
+            "name": "GEOTEXTILE G2 200GR/M2 -  ROULEAU 50M/2M",
+            "image": ""
+        },
+        {
+            "name": "GEOTEXTILE DECKTEX 60GR/M2 -  50M/1M",
+            "image": ""
+        },
+        {
+            "name": "GEOTEXTILE G2 100GR - 50M/1M",
+            "image": ""
+        },
+        {
+            "name": "GEOTEXTILE G2 150GR/M2 -  50M/2M",
+            "image": ""
+        },
+        {
+            "name": "GEOTEXTILE G2 200GR/M2 -  50M/2M - LE M2",
+            "image": ""
+        },
+        {
+            "name": "GEOTEXTILE G2 200GR/M2 -  100M/2M - LE M2",
+            "image": ""
+        },
+        {
+            "name": "GEOTEXTILE G2 200GR/M2 -  25M/2M",
+            "image": ""
+        },
+        {
+            "name": "GEOTEXTILE G2 300GR/M2 -  50M/2M",
+            "image": ""
+        },
+        {
+            "name": "GEOTEX GT60 ROULEAU 50M/1M",
+            "image": ""
+        },
+        {
+            "name": "SILICONE ABC HAUTE TEMPERATURE 750",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX-HYBRID BLANC 01KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX-HYBRID BLANC 04KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX-HYBRID BLANC 00KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX-HYBRID BLANC 25KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "IGAS NOIR - BLOC DE 20KG",
+            "image": ""
+        },
+        {
+            "name": "IGOL JOINT - BIDON 5 L",
+            "image": ""
+        },
+        {
+            "name": "IGOL FONDATION - BIDON DE 25 L",
+            "image": ""
+        },
+        {
+            "name": "IGOL FLEX 155 EG SEAU 18KG",
+            "image": ""
+        },
+        {
+            "name": "MAILLE EN FIBRE DE VERRE ISOMAT 75G/M2 - R.50ML",
+            "image": ""
+        },
+        {
+            "name": "MAILLE EN FIBRE DE VERRE 75G/M2 - R.50ML DEUTSCH",
+            "image": ""
+        },
+        {
+            "name": "MAILLE EN FIBRE DE VERRE ISOMAT 125G/M2 - R.50ML",
+            "image": ""
+        },
+        {
+            "name": "MAILLE EN FIBRE DE VERRE ISOMAT 160G/M2 - R.50ML",
+            "image": ""
+        },
+        {
+            "name": "ISOMASTIC-A (BLANC) - TUBE 280ML / ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOMASTIC-A (BLANC) - TUBE 600ML / ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "MAXIVIT-140 - BIDON DE 25 KG",
+            "image": ""
+        },
+        {
+            "name": "MEGAFLOW SP402 - 5L",
+            "image": ""
+        },
+        {
+            "name": "MEGAFLOW SP402 - 20L",
+            "image": ""
+        },
+        {
+            "name": "MEGACRET-50 THIXO / ISOMAT - SAC DE 25KG",
+            "image": ""
+        },
+        {
+            "name": "MEGAGROUT-101 / ISOMAT - SAC DE 25KG",
+            "image": ""
+        },
+        {
+            "name": "MULTIFILL-ELASTIC / ISOMAT - TUBE 280ML",
+            "image": ""
+        },
+        {
+            "name": "NANOPRO-C (TRANSPARENT) / ISOMAT - BIDON 1L",
+            "image": ""
+        },
+        {
+            "name": "NANOPRO-C (TRANSPARENT) / ISOMAT - BIDON 5L",
+            "image": ""
+        },
+        {
+            "name": "NANOPRO-C (TRANSPARENT) / ISOMAT - BIDON 20L",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT NATURAL STONES 2-4MM -ARABESCATO 25KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT NATURAL STONES 2-4MM -BIANCO CARRARA 25KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT NATURAL STONES 2-4MM -BARDIGLIO 25KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT NATURAL STONES 2-4MM -BOTTICINO 25KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT NATURAL STONES 2-4MM -GRIGIO CARNICO 25KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT NATURAL STONES 2-4MM -GIALLO  SIENA 25KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT NATURAL STONES 2-4MM -MARRONE MOGANO 25KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT NATURAL STONES 2-4MM -ROSA DEL GARDA 25KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT NATURAL STONES 2-4MM -THASSOS 25KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT NATURAL STONES 2-4MM -VERDE ALPI 25KG",
+            "image": ""
+        },
+        {
+            "name": "BANDE O 20 - LE METRE LINEAIRE",
+            "image": ""
+        },
+        {
+            "name": "BANDE O 25 - LE METRE LINEAIRE",
+            "image": ""
+        },
+        {
+            "name": "PISTOLET SILICONE SQUELETTE",
+            "image": ""
+        },
+        {
+            "name": "PISTOLET MANUEL 4 AC EVO 400WT-265Y",
+            "image": ""
+        },
+        {
+            "name": "PISTOLET H45",
+            "image": ""
+        },
+        {
+            "name": "PISTOLET T16 X",
+            "image": ""
+        },
+        {
+            "name": "PISTOLET H2 POUR POCHE 600ML",
+            "image": ""
+        },
+        {
+            "name": "PISTOLET TRENT GUN POUR POCHE 600ML",
+            "image": ""
+        },
+        {
+            "name": "PISTOLET MANUEL GP AR6007- 300ML",
+            "image": ""
+        },
+        {
+            "name": "PISTOLET EVO - 400ML",
+            "image": ""
+        },
+        {
+            "name": "PISTOLET MK 5C - 600ML",
+            "image": ""
+        },
+        {
+            "name": "PLASTOCRETE 57 - BIDON DE 20L",
+            "image": ""
+        },
+        {
+            "name": "PLANFIX BLANC ISOMAT - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "PLANFIX-FINE BLANC ISOMAT - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "PLANFIX GRIS ISOMAT - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "ISOMAT STUCCO COVER - SAC 25KG PL.FINE PROF",
+            "image": ""
+        },
+        {
+            "name": "PLASTIPROOF (MARRON FONCE) -  05KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "PLASTIPROOF (MARRON FONCE) -  20KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "PRIMER ACRYL/ ISOMAT (JAUNE CLAIR) - BIDON 1L",
+            "image": ""
+        },
+        {
+            "name": "PRIMER ACRYL/ ISOMAT (JAUNE CLAIR) - BIDON 5L",
+            "image": ""
+        },
+        {
+            "name": "PRIMER ACRYL/ ISOMAT (JAUNE CLAIR) - BIDON 10L",
+            "image": ""
+        },
+        {
+            "name": "FLEX-PRIMER / ISOMAT (TRANSPARENT) - 01KG",
+            "image": ""
+        },
+        {
+            "name": "FLEX-PRIMER / ISOMAT (TRANSPARENT) - 05KG",
+            "image": ""
+        },
+        {
+            "name": "FLEX-PRIMER / ISOMAT (TRANSPARENT) - SEAU 10KG",
+            "image": ""
+        },
+        {
+            "name": "FLEX-PRIMER / ISOMAT (TRANSPARENT) - SEAU 20KG",
+            "image": ""
+        },
+        {
+            "name": "PRIMER PU-100 TRANSP. BTE 01KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "PRIMER PU-100 TRANSP. S. 05KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "PRIMER PU-100 TRANSP. S. 17KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX PU-510 BLANC 01KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX PU-650 BLANC 01KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX PU-650 BLANC 20KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX PU-500 BLANC BTE 01KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX PU-500 BLANC SE. 06KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX PU-500 BLANC SE. 12KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX PU-500 BLANC SE. 25KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX PU-510 BLANC 25KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX PU-560 BT 10L ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX-PU 560 BT - 40L",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX PU-650 TRANSPARENT 05KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "ISOFLEX PU-510 BLANC 06KG ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "FLEX PU-50 BLANC 300ML / ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "FLEX PU-40 BLANC 310ML / ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "FLEX PU-40 BLANC 600ML",
+            "image": ""
+        },
+        {
+            "name": "FLEX PU-50 GRIS 300ML / ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "PURIGO SOL - BIDON DE 5 L",
+            "image": ""
+        },
+        {
+            "name": "FLEX PU-50 S (BLANC/GRIS) ISOMAT - TUBE 310ML",
+            "image": ""
+        },
+        {
+            "name": "FLEX PU-50 S (BLANC/GRIS) ISOMAT - TUBE 600ML",
+            "image": ""
+        },
+        {
+            "name": "SILICONE ACRYLIC S101 BLANC 310ML SOMAFIX",
+            "image": ""
+        },
+        {
+            "name": "SILICONE ACRYLIC BLANC 310ML PATTEX",
+            "image": ""
+        },
+        {
+            "name": "SANISIL - TRANSPARENT",
+            "image": ""
+        },
+        {
+            "name": "SANISIL BLANC - 300ML",
+            "image": ""
+        },
+        {
+            "name": "SILICONE COLLE (NI CLOU/VIS) S171- 310ML SOMAFIX",
+            "image": ""
+        },
+        {
+            "name": "SEPAROL MINERAL 220W - FUT 210 L",
+            "image": ""
+        },
+        {
+            "name": "SEPAROL MINERAL - FUT 210 L",
+            "image": ""
+        },
+        {
+            "name": "SILICONE PAINT/ ISOMAT (BLANC) - BIDON 03L",
+            "image": ""
+        },
+        {
+            "name": "SILICONEPAINT/ ISOMAT (BLANC) - BIDON 10L",
+            "image": ""
+        },
+        {
+            "name": "SL-17  ISOMAT - SEAU 05KG",
+            "image": ""
+        },
+        {
+            "name": "SL-17  ISOMAT - SEAU 15KG",
+            "image": ""
+        },
+        {
+            "name": "SM-27 / ISOMAT (SOLVANT) 04L",
+            "image": ""
+        },
+        {
+            "name": "SM-27 / ISOMAT (SOLVANT) 0.75L",
+            "image": ""
+        },
+        {
+            "name": "SM-28 / ISOMAT (SOLVANT) 04L",
+            "image": ""
+        },
+        {
+            "name": "SM-28 / ISOMAT (SOLVANT) 0.75L",
+            "image": ""
+        },
+        {
+            "name": "NATURAL STONE 2-4MM THASSOS - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "NATURAL STONE 2-4MM ROSA DEL GARDA - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "NATURAL STONE 2-4MM BARDIGLIO - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "NATURAL STONE 2-4MM BIANCO CARRARA - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "NATURAL STONE 2-4MM BOTTICINO - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "NATURAL STONE 2-4MM GIALLO SIENA - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "NATURAL STONE 2-4MM ARABESCATO - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "NATURAL STONE 2-4MM GRIGIO CARNICO - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "NATURAL STONE 2-4MM MARRONE MOGANO - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "NATURAL STONE 2-4MM VERDE ALPI - SAC 25KG",
+            "image": ""
+        },
+        {
+            "name": "SILICONE UNIV S201 BLANC 280ML SOMAFIX",
+            "image": ""
+        },
+        {
+            "name": "SILICONE UNIV BLANC 280ML PATTEX",
+            "image": ""
+        },
+        {
+            "name": "SILICONE UNIV S204 GRIS 280ML SOMAFIX",
+            "image": ""
+        },
+        {
+            "name": "SILICONE UNIV BLANC 280ML GP GOLD",
+            "image": ""
+        },
+        {
+            "name": "SILICONE UNIV NOIR 280ML PATTEX",
+            "image": ""
+        },
+        {
+            "name": "SUPERGRUND / ISOMAT - 01KG",
+            "image": ""
+        },
+        {
+            "name": "SUPERGRUND / ISOMAT - 05KG",
+            "image": ""
+        },
+        {
+            "name": "SUPERGRUND / ISOMAT - 20KG",
+            "image": ""
+        },
+        {
+            "name": "SILICONE UNIV S200 TRANSPARENT 280ML SOMAFIX",
+            "image": ""
+        },
+        {
+            "name": "SILICONE UNIV TRANSPARENT 280ML PATTEX",
+            "image": ""
+        },
+        {
+            "name": "TISSU DE POLYESTER ISOMAT - 36GR/M2 R.50M*10CM",
+            "image": ""
+        },
+        {
+            "name": "TISSU DE POLYESTER ISOMAT - 30GR/M2 R.100M",
+            "image": ""
+        },
+        {
+            "name": "TISSU DE POLYESTER ISOMAT - 60GR/M2 R.50M",
+            "image": ""
+        },
+        {
+            "name": "TOPCOAT-PU 720 (BLANC OU GRIS) / ISOMAT - 1KG",
+            "image": ""
+        },
+        {
+            "name": "TOPCOAT-PU 720 (BLANC OU GRIS) / ISOMAT - 5KG",
+            "image": ""
+        },
+        {
+            "name": "TOPCOAT-PU 720 (BLANC OU GRIS) / ISOMAT - 20KG",
+            "image": ""
+        },
+        {
+            "name": "TOPCOAT-710 (BLANC) / ISOMAT - 15KG",
+            "image": ""
+        },
+        {
+            "name": "TOPCOAT-710 (BLANC) / ISOMAT - 5KG",
+            "image": ""
+        },
+        {
+            "name": "VARNISH-PU 1K MATE (TRANSPARENT) - 1KG",
+            "image": ""
+        },
+        {
+            "name": "VARNISH-PU 2K ANTISLIP - KIT 1KG",
+            "image": ""
+        },
+        {
+            "name": "VARNISH-PU 2K ANTISLIP - KIT 5KG",
+            "image": ""
+        },
+        {
+            "name": "VARNISH-PU 2K GLOSS - 1KG",
+            "image": ""
+        },
+        {
+            "name": "VARNISH-PU 2K GLOSS - 5KG",
+            "image": ""
+        },
+        {
+            "name": "VARNISH-PU 2K SATIN - 1KG",
+            "image": ""
+        },
+        {
+            "name": "VARNISH-PU 2K SATIN - 5KG",
+            "image": ""
+        },
+        {
+            "name": "VARNISH-PU 2KW MATE - 1KG",
+            "image": ""
+        },
+        {
+            "name": "VARNISH-PU 2KW MATE - 5KG",
+            "image": ""
+        },
+        {
+            "name": "VERNIS VS-1 TRANSPARENT - BIDON 1L ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "VERNIS VS-1 TRANSPARENT - BIDON 4L ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "VERNIS VS-1 TRANSPARENT - BIDON 10L ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "VERNIS VS-W TRANSPARENT - BIDON 1L ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "VERNIS VS-W TRANSPARENT - BIDON 5L ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "VERNIS VS-W TRANSPARENT - BIDON 20L ISOMAT",
+            "image": ""
+        },
+        {
+            "name": "WATERSTOP TPE 205  /BANDE 50M*2CM - LE ML",
             "image": ""
         }
     ],
@@ -10161,7 +11219,7 @@ const productCatalogue = {
             "image": ""
         }
     ],
-    "sika-isomat": [
+    "sika": [
         {
             "name": "SIKA 4A - 2L",
             "image": ""
@@ -10175,71 +11233,11 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "SILICONE ABC EXTRA 689 - TUBE 310ML TRANSP.",
-            "image": ""
-        },
-        {
-            "name": "SILICONE ABC EXTRA 300 - TUBE 500GR BLANC",
-            "image": ""
-        },
-        {
-            "name": "SILICONE ABC EXTRA 300 - TUBE 500GR NOIR",
-            "image": ""
-        },
-        {
-            "name": "ACRYL DECO FINISH BLANC S.05KG - ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ACRYL DECO FINISH COLORE S.05KG - ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ACRYL DECO SOLO BLANC S.05KG - ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ACRYL DECO FINISH BLANC S.15KG - ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ACRYL DECO FINISH COLORE S.15KG - ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ACRYL DECO SOLO BLANC S.15KG - ISOMAT",
-            "image": ""
-        },
-        {
             "name": "SIKA ACTIVATEUR- 205 - BOITE 250ML",
             "image": ""
         },
         {
             "name": "SIKA ACTIVATEUR- 100 - BOITE 250ML",
-            "image": ""
-        },
-        {
-            "name": "ADIPLAST BLANC -  01KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ADIPLAST BLANC -  05KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ADIPLAST BLANC -  20KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AFITEX G2 ASQUAL 1M/25M - 100GR",
-            "image": ""
-        },
-        {
-            "name": "AFITEX G6 2M/1M - 280GR",
-            "image": ""
-        },
-        {
-            "name": "AFITEX G7 2M/1M - 330GR",
             "image": ""
         },
         {
@@ -10267,83 +11265,11 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "AQUAMAT BLANC - 05KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAMAT FLEX GRIS KIT 18KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAMAT BLANC -  25KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAMAT FLEX GRIS KIT 33KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAMAT ADMIX SAC 04KG GRIS ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAMAT ADMIX SAC 20KG GRIS ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAMAT ELASTIC BLANC KIT 18KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAMAT ELASTIC BLANC KIT 35G ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAFIX GRIS 01KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAFIX GRIS 05KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAFIX GRIS 15KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAMAT MONOFLEX BLANC - SAC 18KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAMAT PENETRATE SAC 04KG GRIS ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAMAT PENETRATE SAC 20KG GRIS ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "AQUAMAT PLUS GRIS KIT 21KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ASPHALTOS ISOMAT - SEAU 25KG",
-            "image": ""
-        },
-        {
-            "name": "BANDE WATERBAR A-19 YELLOW - ROUL. DE 30M / ML",
-            "image": ""
-        },
-        {
             "name": "SIKA WATERBAR V-32 - ROUL. DE 15M / ML",
             "image": ""
         },
         {
             "name": "SIKA WATERBAR FB-125 - ROUL. DE 50M / ML",
-            "image": ""
-        },
-        {
-            "name": "BANDE WATERBAR D-19 YELLOW - ROUL. DE 15M / ML",
             "image": ""
         },
         {
@@ -10371,22 +11297,6 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "ISOMAT BATH & KITCHEN (BLANC) - 3L",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT BATH & KITCHEN (BLANC) - 10L",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT BATH & KITCHEN (BLANC) - 0.75L",
-            "image": ""
-        },
-        {
-            "name": "BEVETOL-SPL (SUPER-PLASTIFIANT) ISOMAT - 20KG",
-            "image": ""
-        },
-        {
             "name": "SIKABITUSEAL T-140 PG  / ML",
             "image": ""
         },
@@ -10400,14 +11310,6 @@ const productCatalogue = {
         },
         {
             "name": "SIKABITUSEAL P-01 - SEAU DE 15L",
-            "image": ""
-        },
-        {
-            "name": "DUREBOND (GRIS) / ISOMAT - 1KG",
-            "image": ""
-        },
-        {
-            "name": "DUREBOND (GRIS) / ISOMAT - 4KG",
             "image": ""
         },
         {
@@ -10432,10 +11334,6 @@ const productCatalogue = {
         },
         {
             "name": "SIKA BV 40 - FUT DE 1200 KG",
-            "image": ""
-        },
-        {
-            "name": "PLASTIMENT BV 40 - BIDON DE 25 KG",
             "image": ""
         },
         {
@@ -10647,27 +11545,7 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "CONSERVADO - BIDON DE 1L",
-            "image": ""
-        },
-        {
-            "name": "CONSERVADO - BIDON DE 5L",
-            "image": ""
-        },
-        {
-            "name": "CONSERVADO - BIDON DE 20L",
-            "image": ""
-        },
-        {
-            "name": "CORDON COUPE FEU (BOURELET) 511/ML",
-            "image": ""
-        },
-        {
             "name": "SIKACRETE -HD DURABILITE / SAC 15KG",
-            "image": ""
-        },
-        {
-            "name": "MARMOCRET-SP (BLANC) / ISOMAT - SAC DE 25KG",
             "image": ""
         },
         {
@@ -10687,67 +11565,7 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "ISOCUR-A -  20KG ISOMAT",
-            "image": ""
-        },
-        {
             "name": "SIKADECAP T - BIDON DE 1L",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT DECO RESINE-V - 01KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT DECO RESINE-V - 05KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT DECO RESINE-V - 05KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT DECO RESINE - 20KG",
-            "image": ""
-        },
-        {
-            "name": "DECO COLOR (BLEU EGEEN) 5*50GR -  ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "DECO COLOR (MARRON CLAIR) 5*50GR -  ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "DECO COLOR (MARRON FONCE) 5*50GR -  ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "DECO COLOR (NOIR) 5*50GR -  ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "DECO COLOR (ORANGE) 5*50GR -  ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "DECO COLOR (OCRE) 5*50GR -  ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "DECO COLOR (ROUGE BRIQUE) 5*50GR -  ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "DECO COLOR (ROUGE BRUN) 5*50GR -  ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "DECO COLOR (VIOLET) 5*50GR -  ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "DECO COLOR (VERT) 5*50GR -  ISOMAT",
             "image": ""
         },
         {
@@ -10779,27 +11597,11 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "DUROCRET PLUS GRIS / ISOMAT - SAC DE 05KG",
-            "image": ""
-        },
-        {
             "name": "SIKADUR 30 COLLE - KIT 1.2KG",
             "image": ""
         },
         {
             "name": "SIKADUR COMBIFLEX SG-10 / ROULEAU 25 M",
-            "image": ""
-        },
-        {
-            "name": "DUROCRET PLUS GRIS / ISOMAT - SAC DE 25KG",
-            "image": ""
-        },
-        {
-            "name": "DUROCRET TERRAZZO / ISOMAT - SAC DE 25KG",
-            "image": ""
-        },
-        {
-            "name": "DUROFLOOR - PUC MF6 KIT 34KG ISOMAT",
             "image": ""
         },
         {
@@ -10831,22 +11633,6 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "DUROCRET -DECOFLEX SAC 25K BLANC -  ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "DUROCRET-DECO FINISH SAC 25K BLANC -  ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "DUROCRET -DECO FINISH SAC 25K BLANC -  ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "DUROCRET PENETRATE SAC 25K GRIS ISOMAT",
-            "image": ""
-        },
-        {
             "name": "SIKACERAM EPOXYGROUT (AB) AGATA - SEAU DE 5KG",
             "image": ""
         },
@@ -10863,119 +11649,7 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "EPOMAX-EK (GRIS) / ISOMAT - 01KG",
-            "image": ""
-        },
-        {
-            "name": "EPOXYCOAT-S ISOMAT (BLEU PISCINE) RAL 9003 - 02KG",
-            "image": ""
-        },
-        {
-            "name": "EPOXYCOAT-AC RAL7040 - ISOMAT 03 KG",
-            "image": ""
-        },
-        {
-            "name": "EPOMAX-EK / ISOMAT - 04KG",
-            "image": ""
-        },
-        {
-            "name": "EPOXYCOAT-AC RAL7040 - ISOMAT 08 KG",
-            "image": ""
-        },
-        {
-            "name": "EPOXYCOAT-S (BLEU PISCINE) RAL 9003 - ISOMAT 9.6KG",
-            "image": ""
-        },
-        {
-            "name": "EPOXYCOAT-W - 12KG",
-            "image": ""
-        },
-        {
-            "name": "EPOXYCOAT-S (BLEU) - ISOMAT 28.8KG",
-            "image": ""
-        },
-        {
-            "name": "EPOXYCOAT-W BASE P - 09KG",
-            "image": ""
-        },
-        {
-            "name": "EPOXYCOAT-W BASE TR - 09KG",
-            "image": ""
-        },
-        {
-            "name": "EPOMAX-ANCHOR GRIS FONCE 300ML / ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "RES EPO-JOINT CX32 AGATA - SEAU DE 5KG",
-            "image": ""
-        },
-        {
-            "name": "EPOMAX ANCHOR (GRIS FONCE) / ISOMAT - 300ML",
-            "image": ""
-        },
-        {
-            "name": "EPOMAX L-10 (JAUNE-TRANSP.) / ISOMAT - 01KG",
-            "image": ""
-        },
-        {
-            "name": "EPOMAX -LIQUID GLASS (TRANSPARENT) / ISOMAT - 01KG",
-            "image": ""
-        },
-        {
-            "name": "EPOMAX L-10 (JAUNE-TRANSP.) / ISOMAT - 3KG",
-            "image": ""
-        },
-        {
-            "name": "EPOMAX -LIQUID GLASS (TRANSPARENT) / ISOMAT - 03KG",
-            "image": ""
-        },
-        {
-            "name": "EPOMAX L-20 (JAUNE-TRANSP.) / ISOMAT - 01KG",
-            "image": ""
-        },
-        {
-            "name": "EPOXY PRIMER-500 B-01KG J-CLAIR ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "EPOXY PRIMER-500 S-04KG J-CLAIR ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "EPOXY PRIMER-500 S-20KG J-CLAIR ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "EPOXY PRIMER-500 B-10KG J-CLAIR ISOMAT",
-            "image": ""
-        },
-        {
             "name": "SIKA FASTFIX-138 TP - SAC DE 25KG",
-            "image": ""
-        },
-        {
-            "name": "FERROSEAL (ROUGE) - BOITE 01KG / ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "FERROSEAL (ROUGE) - BOITE 05KG / ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "FERROSEAL (ROUGE) - BOITE 15KG / ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "FERROSEAL-CSI (TRANSPARENT) - BOITE 15KG / ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 1M - LE ML",
-            "image": ""
-        },
-        {
-            "name": "FIBRE DE VERRE 65GR/M2 / ISOMAT - R.50ML*10CM",
             "image": ""
         },
         {
@@ -10983,71 +11657,7 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 50M/30CM",
-            "image": ""
-        },
-        {
-            "name": "GRILLAGE EN FIBRE CH 30CM/50M",
-            "image": ""
-        },
-        {
-            "name": "GRILLAGE EN FIBRE FIXA 10*10 - 50M/30CM",
-            "image": ""
-        },
-        {
-            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 50M/50CM",
-            "image": ""
-        },
-        {
-            "name": "GRILLAGE EN FIBRE CH 50CM/50M",
-            "image": ""
-        },
-        {
-            "name": "GRILLAGE EN FIBRE FIXA 10*10 - 50M/50CM",
-            "image": ""
-        },
-        {
-            "name": "FIBRE DE VERRE 75GR/M2 / ISOMAT - RLX 50ML",
-            "image": ""
-        },
-        {
-            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 50M/1M",
-            "image": ""
-        },
-        {
-            "name": "GRILLAGE EN FIBRE FIXA 10*10 - 50M/1M",
-            "image": ""
-        },
-        {
             "name": "SIKA FIBERNET 120 FC 5*5 ROUGE L.1M",
-            "image": ""
-        },
-        {
-            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 25M/1M",
-            "image": ""
-        },
-        {
-            "name": "FIBRE DE VERRE 125GR/M2 / ISOMAT - RLX 50ML",
-            "image": ""
-        },
-        {
-            "name": "FIBRE DE VERRE 150GR/M2 1ML",
-            "image": ""
-        },
-        {
-            "name": "FIBRE DE VERRE 160GR/M2 / ISOMAT - RLX 50ML",
-            "image": ""
-        },
-        {
-            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 25M/30CM",
-            "image": ""
-        },
-        {
-            "name": "GRILLAGE EN FIBRE 110GR 10*10 - 25M/50CM",
-            "image": ""
-        },
-        {
-            "name": "POLY FIBER DEUTSCHCOLOR  6-12MM - DOSE 600GR",
             "image": ""
         },
         {
@@ -11104,10 +11714,6 @@ const productCatalogue = {
         },
         {
             "name": "SIKA FIRESTOP MASTIC GRIS - 300ML",
-            "image": ""
-        },
-        {
-            "name": "FITBOND LATEX - 20L",
             "image": ""
         },
         {
@@ -11247,14 +11853,6 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "FLEXCOAT BLANC ISOMAT - SEAU 03L",
-            "image": ""
-        },
-        {
-            "name": "FLEXCOAT BLANC ISOMAT - SEAU 10L",
-            "image": ""
-        },
-        {
             "name": "SIKAFLEX -PRO 3WF GRIS / CARTOUCHE 300ML",
             "image": ""
         },
@@ -11292,10 +11890,6 @@ const productCatalogue = {
         },
         {
             "name": "SIKAFLOOR -264 SG (AB) RAL 7035 / KIT 28KG",
-            "image": ""
-        },
-        {
-            "name": "FLOWCRET 3-30 EXPRESS / ISOMAT - SAC DE 25KG",
             "image": ""
         },
         {
@@ -11363,42 +11957,6 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "GEOTEXTILE G2 200GR/M2 -  ROULEAU 50M/2M",
-            "image": ""
-        },
-        {
-            "name": "GEOTEXTILE DECKTEX 60GR/M2 -  50M/1M",
-            "image": ""
-        },
-        {
-            "name": "GEOTEXTILE G2 100GR - 50M/1M",
-            "image": ""
-        },
-        {
-            "name": "GEOTEXTILE G2 150GR/M2 -  50M/2M",
-            "image": ""
-        },
-        {
-            "name": "GEOTEXTILE G2 200GR/M2 -  50M/2M - LE M2",
-            "image": ""
-        },
-        {
-            "name": "GEOTEXTILE G2 200GR/M2 -  100M/2M - LE M2",
-            "image": ""
-        },
-        {
-            "name": "GEOTEXTILE G2 200GR/M2 -  25M/2M",
-            "image": ""
-        },
-        {
-            "name": "GEOTEXTILE G2 300GR/M2 -  50M/2M",
-            "image": ""
-        },
-        {
-            "name": "GEOTEX GT60 ROULEAU 50M/1M",
-            "image": ""
-        },
-        {
             "name": "SIKA GROUTE 212 SCELLEMENT / SAC 25KG",
             "image": ""
         },
@@ -11415,43 +11973,7 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "SILICONE ABC HAUTE TEMPERATURE 750",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX-HYBRID BLANC 01KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX-HYBRID BLANC 04KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX-HYBRID BLANC 00KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX-HYBRID BLANC 25KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "IGAS NOIR - BLOC DE 20KG",
-            "image": ""
-        },
-        {
-            "name": "IGOL JOINT - BIDON 5 L",
-            "image": ""
-        },
-        {
-            "name": "IGOL FONDATION - BIDON DE 25 L",
-            "image": ""
-        },
-        {
             "name": "SIKA IGOLFLEX- 183 FONDATION.ENDUIT -  20 L",
-            "image": ""
-        },
-        {
-            "name": "IGOL FLEX 155 EG SEAU 18KG",
             "image": ""
         },
         {
@@ -11575,51 +12097,7 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "MAILLE EN FIBRE DE VERRE ISOMAT 75G/M2 - R.50ML",
-            "image": ""
-        },
-        {
-            "name": "MAILLE EN FIBRE DE VERRE 75G/M2 - R.50ML DEUTSCH",
-            "image": ""
-        },
-        {
-            "name": "MAILLE EN FIBRE DE VERRE ISOMAT 125G/M2 - R.50ML",
-            "image": ""
-        },
-        {
-            "name": "MAILLE EN FIBRE DE VERRE ISOMAT 160G/M2 - R.50ML",
-            "image": ""
-        },
-        {
-            "name": "ISOMASTIC-A (BLANC) - TUBE 280ML / ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOMASTIC-A (BLANC) - TUBE 600ML / ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "MAXIVIT-140 - BIDON DE 25 KG",
-            "image": ""
-        },
-        {
             "name": "SIKA MAXTACK 1,2,3 FIXE ! - CARTOUCHE 300ML",
-            "image": ""
-        },
-        {
-            "name": "MEGAFLOW SP402 - 5L",
-            "image": ""
-        },
-        {
-            "name": "MEGAFLOW SP402 - 20L",
-            "image": ""
-        },
-        {
-            "name": "MEGACRET-50 THIXO / ISOMAT - SAC DE 25KG",
-            "image": ""
-        },
-        {
-            "name": "MEGAGROUT-101 / ISOMAT - SAC DE 25KG",
             "image": ""
         },
         {
@@ -11687,10 +12165,6 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "MULTIFILL-ELASTIC / ISOMAT - TUBE 280ML",
-            "image": ""
-        },
-        {
             "name": "SIKAMUR INJECTOCREAM - KIT PRO",
             "image": ""
         },
@@ -11699,163 +12173,11 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "NANOPRO-C (TRANSPARENT) / ISOMAT - BIDON 1L",
-            "image": ""
-        },
-        {
-            "name": "NANOPRO-C (TRANSPARENT) / ISOMAT - BIDON 5L",
-            "image": ""
-        },
-        {
-            "name": "NANOPRO-C (TRANSPARENT) / ISOMAT - BIDON 20L",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT NATURAL STONES 2-4MM -ARABESCATO 25KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT NATURAL STONES 2-4MM -BIANCO CARRARA 25KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT NATURAL STONES 2-4MM -BARDIGLIO 25KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT NATURAL STONES 2-4MM -BOTTICINO 25KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT NATURAL STONES 2-4MM -GRIGIO CARNICO 25KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT NATURAL STONES 2-4MM -GIALLO  SIENA 25KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT NATURAL STONES 2-4MM -MARRONE MOGANO 25KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT NATURAL STONES 2-4MM -ROSA DEL GARDA 25KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT NATURAL STONES 2-4MM -THASSOS 25KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT NATURAL STONES 2-4MM -VERDE ALPI 25KG",
-            "image": ""
-        },
-        {
-            "name": "BANDE O 20 - LE METRE LINEAIRE",
-            "image": ""
-        },
-        {
-            "name": "BANDE O 25 - LE METRE LINEAIRE",
-            "image": ""
-        },
-        {
-            "name": "PISTOLET SILICONE SQUELETTE",
-            "image": ""
-        },
-        {
-            "name": "PISTOLET MANUEL 4 AC EVO 400WT-265Y",
-            "image": ""
-        },
-        {
-            "name": "PISTOLET H45",
-            "image": ""
-        },
-        {
-            "name": "PISTOLET T16 X",
-            "image": ""
-        },
-        {
-            "name": "PISTOLET H2 POUR POCHE 600ML",
-            "image": ""
-        },
-        {
-            "name": "PISTOLET TRENT GUN POUR POCHE 600ML",
-            "image": ""
-        },
-        {
-            "name": "PISTOLET MANUEL GP AR6007- 300ML",
-            "image": ""
-        },
-        {
-            "name": "PISTOLET EVO - 400ML",
-            "image": ""
-        },
-        {
-            "name": "PISTOLET MK 5C - 600ML",
-            "image": ""
-        },
-        {
-            "name": "PLASTOCRETE 57 - BIDON DE 20L",
-            "image": ""
-        },
-        {
-            "name": "PLANFIX BLANC ISOMAT - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "PLANFIX-FINE BLANC ISOMAT - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "PLANFIX GRIS ISOMAT - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "ISOMAT STUCCO COVER - SAC 25KG PL.FINE PROF",
-            "image": ""
-        },
-        {
-            "name": "PLASTIPROOF (MARRON FONCE) -  05KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "PLASTIPROOF (MARRON FONCE) -  20KG ISOMAT",
-            "image": ""
-        },
-        {
             "name": "SIKA POWER FIX - 1300ML",
             "image": ""
         },
         {
-            "name": "PRIMER ACRYL/ ISOMAT (JAUNE CLAIR) - BIDON 1L",
-            "image": ""
-        },
-        {
-            "name": "PRIMER ACRYL/ ISOMAT (JAUNE CLAIR) - BIDON 5L",
-            "image": ""
-        },
-        {
-            "name": "PRIMER ACRYL/ ISOMAT (JAUNE CLAIR) - BIDON 10L",
-            "image": ""
-        },
-        {
-            "name": "FLEX-PRIMER / ISOMAT (TRANSPARENT) - 01KG",
-            "image": ""
-        },
-        {
-            "name": "FLEX-PRIMER / ISOMAT (TRANSPARENT) - 05KG",
-            "image": ""
-        },
-        {
-            "name": "FLEX-PRIMER / ISOMAT (TRANSPARENT) - SEAU 10KG",
-            "image": ""
-        },
-        {
             "name": "SIKA PRIMER -11W+ / SEAU DE 5KG",
-            "image": ""
-        },
-        {
-            "name": "FLEX-PRIMER / ISOMAT (TRANSPARENT) - SEAU 20KG",
             "image": ""
         },
         {
@@ -11883,94 +12205,6 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "PRIMER PU-100 TRANSP. BTE 01KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "PRIMER PU-100 TRANSP. S. 05KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "PRIMER PU-100 TRANSP. S. 17KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX PU-510 BLANC 01KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX PU-650 BLANC 01KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX PU-650 BLANC 20KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX PU-500 BLANC BTE 01KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX PU-500 BLANC SE. 06KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX PU-500 BLANC SE. 12KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX PU-500 BLANC SE. 25KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX PU-510 BLANC 25KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX PU-560 BT 10L ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX-PU 560 BT - 40L",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX PU-650 TRANSPARENT 05KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "ISOFLEX PU-510 BLANC 06KG ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "FLEX PU-50 BLANC 300ML / ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "FLEX PU-40 BLANC 310ML / ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "FLEX PU-40 BLANC 600ML",
-            "image": ""
-        },
-        {
-            "name": "FLEX PU-50 GRIS 300ML / ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "PURIGO SOL - BIDON DE 5 L",
-            "image": ""
-        },
-        {
-            "name": "FLEX PU-50 S (BLANC/GRIS) ISOMAT - TUBE 310ML",
-            "image": ""
-        },
-        {
-            "name": "FLEX PU-50 S (BLANC/GRIS) ISOMAT - TUBE 600ML",
-            "image": ""
-        },
-        {
             "name": "SIKAREP-05 RAGREAGE BLANC - SAC DE 25KG",
             "image": ""
         },
@@ -11980,26 +12214,6 @@ const productCatalogue = {
         },
         {
             "name": "SIKAREP -817 / SAC DE 25KG",
-            "image": ""
-        },
-        {
-            "name": "SILICONE ACRYLIC S101 BLANC 310ML SOMAFIX",
-            "image": ""
-        },
-        {
-            "name": "SILICONE ACRYLIC BLANC 310ML PATTEX",
-            "image": ""
-        },
-        {
-            "name": "SANISIL - TRANSPARENT",
-            "image": ""
-        },
-        {
-            "name": "SANISIL BLANC - 300ML",
-            "image": ""
-        },
-        {
-            "name": "SILICONE COLLE (NI CLOU/VIS) S171- 310ML SOMAFIX",
             "image": ""
         },
         {
@@ -12023,14 +12237,6 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "SEPAROL MINERAL 220W - FUT 210 L",
-            "image": ""
-        },
-        {
-            "name": "SEPAROL MINERAL - FUT 210 L",
-            "image": ""
-        },
-        {
             "name": "SIKASHIELD P34 MG EG 4MM RLX 10M/1M",
             "image": ""
         },
@@ -12047,14 +12253,6 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "SILICONE PAINT/ ISOMAT (BLANC) - BIDON 03L",
-            "image": ""
-        },
-        {
-            "name": "SILICONEPAINT/ ISOMAT (BLANC) - BIDON 10L",
-            "image": ""
-        },
-        {
             "name": "SIKASIL MULTIPLUS TRANSPARENT - 280ML",
             "image": ""
         },
@@ -12063,111 +12261,7 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "SL-17  ISOMAT - SEAU 05KG",
-            "image": ""
-        },
-        {
-            "name": "SL-17  ISOMAT - SEAU 15KG",
-            "image": ""
-        },
-        {
-            "name": "SM-27 / ISOMAT (SOLVANT) 04L",
-            "image": ""
-        },
-        {
-            "name": "SM-27 / ISOMAT (SOLVANT) 0.75L",
-            "image": ""
-        },
-        {
-            "name": "SM-28 / ISOMAT (SOLVANT) 04L",
-            "image": ""
-        },
-        {
-            "name": "SM-28 / ISOMAT (SOLVANT) 0.75L",
-            "image": ""
-        },
-        {
             "name": "SIKAFLEX SOLO (PARE-BRISE) - TUBE 300ML NOIR",
-            "image": ""
-        },
-        {
-            "name": "NATURAL STONE 2-4MM THASSOS - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "NATURAL STONE 2-4MM ROSA DEL GARDA - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "NATURAL STONE 2-4MM BARDIGLIO - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "NATURAL STONE 2-4MM BIANCO CARRARA - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "NATURAL STONE 2-4MM BOTTICINO - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "NATURAL STONE 2-4MM GIALLO SIENA - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "NATURAL STONE 2-4MM ARABESCATO - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "NATURAL STONE 2-4MM GRIGIO CARNICO - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "NATURAL STONE 2-4MM MARRONE MOGANO - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "NATURAL STONE 2-4MM VERDE ALPI - SAC 25KG",
-            "image": ""
-        },
-        {
-            "name": "SILICONE UNIV S201 BLANC 280ML SOMAFIX",
-            "image": ""
-        },
-        {
-            "name": "SILICONE UNIV BLANC 280ML PATTEX",
-            "image": ""
-        },
-        {
-            "name": "SILICONE UNIV S204 GRIS 280ML SOMAFIX",
-            "image": ""
-        },
-        {
-            "name": "SILICONE UNIV BLANC 280ML GP GOLD",
-            "image": ""
-        },
-        {
-            "name": "SILICONE UNIV NOIR 280ML PATTEX",
-            "image": ""
-        },
-        {
-            "name": "SUPERGRUND / ISOMAT - 01KG",
-            "image": ""
-        },
-        {
-            "name": "SUPERGRUND / ISOMAT - 05KG",
-            "image": ""
-        },
-        {
-            "name": "SUPERGRUND / ISOMAT - 20KG",
-            "image": ""
-        },
-        {
-            "name": "SILICONE UNIV S200 TRANSPARENT 280ML SOMAFIX",
-            "image": ""
-        },
-        {
-            "name": "SILICONE UNIV TRANSPARENT 280ML PATTEX",
             "image": ""
         },
         {
@@ -12215,30 +12309,6 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "TISSU DE POLYESTER ISOMAT - 36GR/M2 R.50M*10CM",
-            "image": ""
-        },
-        {
-            "name": "TISSU DE POLYESTER ISOMAT - 30GR/M2 R.100M",
-            "image": ""
-        },
-        {
-            "name": "TISSU DE POLYESTER ISOMAT - 60GR/M2 R.50M",
-            "image": ""
-        },
-        {
-            "name": "TOPCOAT-PU 720 (BLANC OU GRIS) / ISOMAT - 1KG",
-            "image": ""
-        },
-        {
-            "name": "TOPCOAT-PU 720 (BLANC OU GRIS) / ISOMAT - 5KG",
-            "image": ""
-        },
-        {
-            "name": "TOPCOAT-PU 720 (BLANC OU GRIS) / ISOMAT - 20KG",
-            "image": ""
-        },
-        {
             "name": "SIKATOP 107 T BLANC / KIT DE 20KG",
             "image": ""
         },
@@ -12267,19 +12337,11 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "TOPCOAT-710 (BLANC) / ISOMAT - 15KG",
-            "image": ""
-        },
-        {
             "name": "SIKATOP 209 RESERVOIR T - BLANC / KIT 38KG",
             "image": ""
         },
         {
             "name": "SIKATOP 209 RESERVOIR T - GRIS / KIT 38KG",
-            "image": ""
-        },
-        {
-            "name": "TOPCOAT-710 (BLANC) / ISOMAT - 5KG",
             "image": ""
         },
         {
@@ -12311,66 +12373,6 @@ const productCatalogue = {
             "image": ""
         },
         {
-            "name": "VARNISH-PU 1K MATE (TRANSPARENT) - 1KG",
-            "image": ""
-        },
-        {
-            "name": "VARNISH-PU 2K ANTISLIP - KIT 1KG",
-            "image": ""
-        },
-        {
-            "name": "VARNISH-PU 2K ANTISLIP - KIT 5KG",
-            "image": ""
-        },
-        {
-            "name": "VARNISH-PU 2K GLOSS - 1KG",
-            "image": ""
-        },
-        {
-            "name": "VARNISH-PU 2K GLOSS - 5KG",
-            "image": ""
-        },
-        {
-            "name": "VARNISH-PU 2K SATIN - 1KG",
-            "image": ""
-        },
-        {
-            "name": "VARNISH-PU 2K SATIN - 5KG",
-            "image": ""
-        },
-        {
-            "name": "VARNISH-PU 2KW MATE - 1KG",
-            "image": ""
-        },
-        {
-            "name": "VARNISH-PU 2KW MATE - 5KG",
-            "image": ""
-        },
-        {
-            "name": "VERNIS VS-1 TRANSPARENT - BIDON 1L ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "VERNIS VS-1 TRANSPARENT - BIDON 4L ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "VERNIS VS-1 TRANSPARENT - BIDON 10L ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "VERNIS VS-W TRANSPARENT - BIDON 1L ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "VERNIS VS-W TRANSPARENT - BIDON 5L ISOMAT",
-            "image": ""
-        },
-        {
-            "name": "VERNIS VS-W TRANSPARENT - BIDON 20L ISOMAT",
-            "image": ""
-        },
-        {
             "name": "SIKAWALL-570 MONOMAX BLANC G10 - S.25KG",
             "image": ""
         },
@@ -12392,10 +12394,6 @@ const productCatalogue = {
         },
         {
             "name": "SIKAWALL-570 MONOMAX BLANC PERLE J15 - S.25KG",
-            "image": ""
-        },
-        {
-            "name": "WATERSTOP TPE 205  /BANDE 50M*2CM - LE ML",
             "image": ""
         },
         {
